@@ -1,0 +1,31 @@
+/* Instagram Widget
+------------------------------------------------------------------------------------ */
+.widget_area ul.instagram-pics {
+    margin-right: -5px;
+    overflow: hidden;
+    padding-top: 0.375em;
+    line-height: 0;
+}
+.widget_area.sidebar_align_left ul.instagram-pics {
+    text-align: left;
+}
+.widget_area.sidebar_align_right ul.instagram-pics {
+    text-align: right;
+}
+.widget_area.sidebar_align_center ul.instagram-pics {
+    text-align: center;
+}
+.widget_area ul.instagram-pics li {
+    display: inline-block;
+    padding: 0;
+    margin: 0 5px 5px 0;
+    overflow: hidden;
+    width: 26.4865%;
+    height: auto;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.widget_area ul.instagram-pics li:before {
+	display:none;
+}

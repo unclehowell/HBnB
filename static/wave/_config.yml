@@ -1,0 +1,7 @@
+url: https://wave.hotspotbnb.com
+enforce_ssl: wave.hotspotbnb.com
+theme: jekyll-theme-cayman
+permalink: pretty
+permalink: /404.html
+plugins:
+  - jekyll-sitemap

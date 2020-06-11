@@ -1,0 +1,26 @@
+<wpml-config>
+	<admin-texts>
+			<key name="_lipi_theme_options_">
+				<key name="portfolio-fitrows-one-botton-text" />
+				<key name="portfolio_social_share_mailto" />
+				<key name="portfolio_related_post_title" />
+				<key name="404_title_text" />
+				<key name="404_subtitle_text" />
+				<key name="global-search-text-paceholder" />
+				<key name="global-flip-search-text-paceholder" />
+				<key name="global_search_button_text" />
+				<key name="global_live_showallresult_search_text" />
+				<key name="global_live_noresult_search_text" />
+				<key name="yes-no-above-message" />
+				<key name="attached-file-title" />
+				<key name="attached-file-type" />
+				<key name="attached-file-size" />
+				<key name="attached-file-download" />
+				<key name="already-voted-message" />
+				<key name="yes-button-text" />
+				<key name="no-button-text" />
+				<key name="attached-file-title-for-login-user" />
+				<key name="blog_read_more_text" />
+			</key> 
+	</admin-texts>
+</wpml-config>

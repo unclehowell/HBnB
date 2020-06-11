@@ -1,0 +1,11 @@
+# robots.txt for https://wave.hotspotbnb.com
+
+User-agent: * 
+Disallow: https://wave.hotspotbnb.com/data/
+Disallow: https://wave.hotspotbnb.com/store/product-detailed-info/
+Disallow: https://wave.hotspotbnb.com/html/
+Noindex: https://wave.hotspotbnb.com/data/
+Noindex: https://wave.hotspotbnb.com/store/product-detailed-info/
+Noindex: https://wave.hotspotbnb.com/html/
+
+Sitemap: https://wave.hotspotbnb.com/sitemap.xml

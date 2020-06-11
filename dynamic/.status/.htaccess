@@ -1,0 +1,4 @@
+#Force from http to https
+RewriteCond %{HTTPS} off 
+RewriteCond %{HTTP_HOST} =status.hotspotbnb.com
+RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301]
