@@ -54,23 +54,58 @@ Main Components
   transform: translateY(80px);
 }
 
+.logo {
+  background:transparent!important;
+  opacity:1;
+  margin-top: 0.8rem; 
+  max-width: calc(100vw - 80px)!important; 
+  width: 23rem!important; 
+  margin-right: calc(-9.5rem + 41.5vw)!important; 
+  float: right!important;
+}
 
+.fullscreen {
+float: right;
+display:block;
+opacity: 1;
+color:white;
+top:0px;
+height:0px;
+margin-top:7px;
+padding:0;
+max-width: 3px;
+width:3px;
+background: -webkit-gradient(radial, 50% 50%, 0, 20% 20%, 150, from(#fff), to(rgba(0,10,0,100)));
+border:none;
+margin-right:calc(45vw);
+margin-left: calc(90vw);
+text-align:center;
+}
+.forminput {
+  border:1px solid transparent!important; 
+  background:transparent; 
+  color:white;
+  font-size: 2.5rem;
+  opacity: 0.6;
+  max-width: 210px;
+  text-align: center; 
+  margin:-5px 0 5px 0; 
+}
 .cd-logo {
   float: left;
   margin-top: 28px;
 }
 
 .cd-3d-nav-trigger {
-  position: relative;
-  float: left;
-  height: 45px;
-  width: 45px;
-  margin-top: 18px;
-  /* replace text with background image */
-  overflow: hidden;
-  text-indent: 100%;
-  white-space: nowrap;
-  color: transparent;
+    position: fixed;
+    float: left;
+    height: 45px;
+    width: 45px;
+    margin-top: 18px;
+    text-indent: 100%;
+    white-space: nowrap;
+    color: transparent;
+    left: 0;
 }
 .cd-3d-nav-trigger span,
 .cd-3d-nav-trigger span::before,
@@ -85,11 +120,16 @@ Main Components
 }
 .cd-3d-nav-trigger span {
   /* this is the central line */
-  top: 21px;
-  left: 8px;
-  -webkit-transition: background 0.2s 0.5s;
-  -moz-transition: background 0.2s 0.5s;
-  transition: background 0.2s 0.5s;
+    top: 39px;
+    right: calc(96vw + -5rem);
+    position: fixed;
+    -moz-transition: background 0.2s 0.5s;
+    transition: background 0.2s 0.5s;
+    margin: 0;
+    padding: 0;
+    -webkit-transition: background 0.2s 0.5s;
+    -moz-transition: background 0.2s 0.5s;
+    transition: background 0.2s 0.5s;
 }
 .cd-3d-nav-trigger span::before, .cd-3d-nav-trigger span:after {
   /* these are the upper and lower lines */
@@ -420,10 +460,21 @@ main.nav-is-visible {
   transform: translateY(80px);
 }
 
-@media all and (min-width:1024px) {
-	
+@media all and (max-width:330px) {
+.logo {
+    margin-left: 27vw;
+    float: left!important;
+    zoom: 0.7;
+    margin-top: 25px;
+    padding-bottom: 13px;
+}	
 }
 
+@media all and (max-width:200px) {
+.logo {
+    visibility: hidden;
+}       
+}
 
 @media all and (min-width: 960px) and (max-width: 1123px) {
 

