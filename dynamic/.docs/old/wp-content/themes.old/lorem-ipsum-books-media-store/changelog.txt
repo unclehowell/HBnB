@@ -1,0 +1,43 @@
+Version 1.1.1
+    Fixed:
+    - Registration/Login form
+    Added:
+    - Contact Form 7 support
+
+Version 1.1
+    Added:
+    - GDPR Framework plugin
+    - Alert to Demo data installation
+    - Products filter by author
+    - 4 new color schemes
+
+    Fixed:
+    - Compatibility with Wordpress 4.9.7
+    - Compatibility with Gutenberg and other PageBuilders
+    - Update plugins to their latest versions
+    - Improve theme styles
+    - Update documentation
+
+    Changed:
+    - Make forms GDPR-compliant
+    - Move Importer to ThemeREX Addons plugin
+
+Version 1.0.4
+    * TGMPA fixed
+    * Plugins updated
+    * WooCommerce products stream page style updated
+    * Register/Login/Logout buttons added to mobile menu
+
+Version 1.0.3
+    * Plugins updated
+    * Demo data updated
+    * The theme is now compatible with version WooCommerce 3.0 and higher
+
+Version 1.0.2
+    * Fixed problem with social icons selection in 'Socials' settings
+
+Version 1.0.1
+    * Fixed problem with copying and deleting Color Schemes in 'Fonts & Colors' options
+
+Version 1.0
+    * Release

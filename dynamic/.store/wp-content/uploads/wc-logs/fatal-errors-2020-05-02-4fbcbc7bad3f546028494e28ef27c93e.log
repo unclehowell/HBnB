@@ -1,0 +1,6 @@
+2020-05-02T23:22:24+00:00 CRITICAL Object of class WP_Error could not be converted to string in /var/www/html/store/wp-content/themes/hotspotbnb-child/framework/include/functions.php on line 682
+
+2020-05-02T23:27:38+00:00 CRITICAL Object of class WP_Error could not be converted to string in /var/www/html/store/wp-content/themes/hotspotbnb-child/framework/include/functions.php on line 666
+
+2020-05-02T23:28:18+00:00 CRITICAL Object of class WP_Error could not be converted to string in /var/www/html/store/wp-content/themes/hotspotbnb-child/framework/include/functions.php on line 666
+

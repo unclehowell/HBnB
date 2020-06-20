@@ -1,0 +1,17 @@
+**/source/
+.rst
+.tex
+.sh
+Makefile
+raw
+.log
+**/doctrees
+.ilg
+.odx
+.fls
+.out
+.toc
+.ist
+.cls
+latexmkrc
+latexmkjarc
