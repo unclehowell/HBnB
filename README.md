@@ -26,7 +26,4 @@
   
 
       
-## Collaborators
 
-This project exists thanks to all the people who collaborate. [[Collaborate]](COLLABORATE.md).
-[![](https://opencollective.com/beaker/contributors.svg?width=890)](https://github.com/unclehowell/HBnB/graphs/contributors)
