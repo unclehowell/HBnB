@@ -1,0 +1,1 @@
+xref_links = {"Store" : ("Store", "https://wave.hotspotbnb.com/store/")}

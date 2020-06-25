@@ -1,0 +1,51 @@
+.redux-dev-mode-notice-container.redux-dev-qtip {
+	display: none;
+}
+.bind_adminmsg {
+	padding: 20px;
+	font-size: 14px;
+	color: #FCFCFC;
+	color: #000000;
+	background: white;
+	border-left: 4px solid #46b450;
+	margin-top: 10px;
+	margin-right: 20px;
+}
+.bind_adminmsg span {
+	color: #C31111;
+	font-weight:bold;
+}
+#redux-header .rAds, #redux-header .rAds img {
+	display: none!important;
+}
+.redux-container .redux-group-tab h3 {
+	border-bottom: 5px solid #d4ddf1;
+	background: #edf2fd;
+	padding: 2px 0px 2px 13px;
+}
+.redux-container .redux-group-tab h3:before {
+	content: "\f103";
+	font: normal normal normal 14px/1 'Elusive-Icons';
+	padding-right: 13px;
+	color: #565bf5;
+	font-size: 16px;
+	font-weight: 300;
+}
+.cn_admin_banner {
+	display: none;
+}
+.theme_metabox_margin_left_50 {
+	margin-left: 50px!important;
+}
+.widget-inside .cmb-th, .widget-inside .cmb-td {
+	padding:0px;
+}
+ul.social-icon-fields span {
+	display:none;
+}
+h1.ocdi__title.dashicons-before.dashicons-upload {
+	display: none;
+}
+#cpt_info_box {
+	display:none;
+}

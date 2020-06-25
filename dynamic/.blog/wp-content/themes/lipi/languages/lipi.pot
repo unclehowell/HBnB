@@ -1,0 +1,5060 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Lipi - 1.0\n"
+"POT-Creation-Date: 2019-01-10 17:54+0545\n"
+"PO-Revision-Date: 2019-01-10 17:54+0545\n"
+"Last-Translator: \n"
+"Language-Team: Pixel Ace Pvt Ltd <support@wpsmartapps.com>\n"
+"Language: Engish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;wp_kses\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:43 ../404.php:57
+msgid "Oops! That page can't be found"
+msgstr ""
+
+#: ../404.php:52 ../framework/ReduxCore/options/lipi.php:4194
+msgid "404"
+msgstr ""
+
+#: ../404.php:54
+msgid "The link BROKEN, or the page has been REMOVED. Try search our site."
+msgstr ""
+
+#: ../bbpress-functions.php:51
+msgid "bbPress Default"
+msgstr ""
+
+#: ../bbpress-functions.php:240 ../bbpress-functions.php:249
+msgid "Something went wrong. Refresh your browser and try again."
+msgstr ""
+
+#: ../bbpress-functions.php:277 ../bbpress-functions.php:414
+msgid "Subscriptions are no longer active."
+msgstr ""
+
+#: ../bbpress-functions.php:282
+msgid "Please login to subscribe to this forum."
+msgstr ""
+
+#: ../bbpress-functions.php:291 ../bbpress-functions.php:359
+#: ../bbpress-functions.php:428
+msgid "You do not have permission to do this."
+msgstr ""
+
+#: ../bbpress-functions.php:299
+msgid "The forum could not be found."
+msgstr ""
+
+#: ../bbpress-functions.php:304 ../bbpress-functions.php:372
+#: ../bbpress-functions.php:441
+msgid "Are you sure you meant to do that?"
+msgstr ""
+
+#: ../bbpress-functions.php:312 ../bbpress-functions.php:380
+#: ../bbpress-functions.php:449
+msgid "The request was unsuccessful. Please try again."
+msgstr ""
+
+#: ../bbpress-functions.php:345
+msgid "Favorites are no longer active."
+msgstr ""
+
+#: ../bbpress-functions.php:350
+msgid "Please login to make this topic a favorite."
+msgstr ""
+
+#: ../bbpress-functions.php:367 ../bbpress-functions.php:436
+msgid "The topic could not be found."
+msgstr ""
+
+#: ../bbpress-functions.php:419
+msgid "Please login to subscribe to this topic."
+msgstr ""
+
+#: ../bbpress-functions.php:602 ../bbpress-functions.php:622
+#: ../bbpress/loop-single-forum.php:88
+msgid "No Topics"
+msgstr ""
+
+#: ../comments.php:51
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:82 ../framework/include/template-tags.php:181
+msgid "Post a Comment"
+msgstr ""
+
+#: ../functions.php:32
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:33
+msgid "Footer Menu"
+msgstr ""
+
+#: ../functions.php:34
+msgid "Header Top Left"
+msgstr ""
+
+#: ../functions.php:105
+msgid ""
+"<div class=\"bind_adminmsg\"><span>PLEASE UPGRADE \"Slider Revolution\" to "
+"new version 5.4.8.1</span> <br><br> 1. Go to: Plugins -> Installed Plugins. "
+"<br>2. <strong>DELETE plugin</strong> \"Slider Revolution\" for the system. "
+"<strong><i>(you must DEACTIVATE plugin first and DELETE it)</i></strong> "
+"<br> 3. <strong>Click on \"Begin installing plugin\" -OR - go to \"Apperance "
+"> Install Plugins\"</strong>, to install new version.</span> "
+"<br><br><i>Note: No data will be loss in this upgrade process.</i> </div>"
+msgstr ""
+
+#: ../functions.php:124
+msgid ""
+"<div class=\"bind_adminmsg\"><span>PLEASE UPGRADE \"WPBakery Visual Composer"
+"\" to new version 5.6</span> <br><br> 1. Go to: Plugins -> Installed "
+"Plugins. <br>2. <strong>DELETE plugin</strong> \"WPBakery Visual Composer\" "
+"for the system. <strong><i>(you must DEACTIVATE plugin first and DELETE it)</"
+"i></strong> <br> 3. <strong>Click on \"Begin installing plugin\" -OR - go to "
+"\"Apperance > Install Plugins\"</strong>, to install new version. <strong></"
+"span> <br><br><i>Note: No data will be loss in this upgrade process.</i> </"
+"div>"
+msgstr ""
+
+#: ../functions.php:141
+msgid ""
+"<div class=\"bind_adminmsg\"><span>PLEASE UPGRADE \"Ultimate Addons for "
+"WPBakery Page Builder\" to new version 3.17.1</span> <br><br> 1. Go to: "
+"Plugins -> Installed Plugins. <br>2. <strong>DELETE plugin</strong> "
+"\"Ultimate Addons for WPBakery Page Builder\" for the system. <strong><i>"
+"(you must DEACTIVATE plugin first and DELETE it)</i></strong> <br> 3. "
+"<strong>Click on \"Begin installing plugin\" -OR - go to \"Apperance > "
+"Install Plugins\"</strong>, to install new version.</span> <br><br><i>Note: "
+"No data will be loss in this upgrade process.</i> </div>"
+msgstr ""
+
+#: ../functions.php:160
+msgid ""
+"<div class=\"bind_adminmsg\"><span>PLEASE UPGRADE \"Lipi Framework (Post "
+"Type)\" to new version 1.0</span> <br><br> 1. Go to: Plugins -> Installed "
+"Plugins. <br>2. <strong>DELETE plugin</strong> \"Lipi Framework (Post "
+"Type)\" for the system. <strong><i>(you must DEACTIVATE plugin first and "
+"DELETE it)</i></strong> <br> 3. <strong>Click on \"Begin installing plugin\" "
+"-OR - go to \"Apperance > Install Plugins\"</strong>, to install new version."
+"</span> <br><br><i>Note: No data will be loss in this upgrade process.</i> </"
+"div>"
+msgstr ""
+
+#: ../single-lipi_kb.php:64 ../single-lipi_kb.php:93
+#: ../taxonomy-lipikbcat.php:64 ../bbpress/form-user-lost-pass.php:14
+#: ../framework/vc.php:2970 ../framework/include/functions.php:2185
+#: ../template/kb/content-ajaxload.php:27
+msgid "Lost Password"
+msgstr ""
+
+#: ../single-lipi_kb.php:143 ../taxonomy-lipikbcat.php:205
+#: ../taxonomy-lipi_kbtag.php:101
+msgid "Please assign category for your Knowledge Base RECORD"
+msgstr ""
+
+#: ../taxonomy-lipifaqcat.php:79 ../bbpress/user-details.php:65
+#: ../framework/include/template-tags.php:206
+#: ../template/kb/content-ajaxload.php:83
+msgid "Edit"
+msgstr ""
+
+#: ../taxonomy-lipifaqcat.php:88 ../taxonomy-lipikbcat.php:181
+#: ../taxonomy-lipi_kbtag.php:80 ../template/content-search.php:98
+msgid "&lt;"
+msgstr ""
+
+#: ../taxonomy-lipifaqcat.php:89 ../taxonomy-lipikbcat.php:182
+#: ../taxonomy-lipi_kbtag.php:81 ../template/content-search.php:99
+msgid "&gt;"
+msgstr ""
+
+#: ../taxonomy-lipifaqcat.php:96
+msgid "Sorry, no records were found"
+msgstr ""
+
+#: ../taxonomy-lipifaqcat.php:110 ../framework/include/hook.php:546
+msgid "Please assign category for your FAQ RECORD"
+msgstr ""
+
+#: ../taxonomy-lipikbcat.php:187 ../taxonomy-lipi_kbtag.php:86
+msgid "Sorry, no posts were found"
+msgstr ""
+
+#: ../bbpress/content-single-topic-lead.php:18
+msgid "Creator"
+msgstr ""
+
+#: ../bbpress/content-single-topic-lead.php:22 ../bbpress/loop-topics.php:19
+msgid "Topic"
+msgstr ""
+
+#: ../bbpress/content-statistics.php:17
+msgid "Registered Users"
+msgstr ""
+
+#: ../bbpress/content-statistics.php:22
+msgid "Forums"
+msgstr ""
+
+#: ../bbpress/content-statistics.php:27 ../bbpress/loop-forums.php:19
+msgid "Topics"
+msgstr ""
+
+#: ../bbpress/content-statistics.php:32 ../bbpress/loop-topics.php:21
+msgid "Replies"
+msgstr ""
+
+#: ../bbpress/content-statistics.php:37
+msgid "Topic Tags"
+msgstr ""
+
+#: ../bbpress/content-statistics.php:44
+msgid "Empty Topic Tags"
+msgstr ""
+
+#: ../bbpress/content-statistics.php:53
+msgid "Hidden Topics"
+msgstr ""
+
+#: ../bbpress/content-statistics.php:64
+msgid "Hidden Replies"
+msgstr ""
+
+#: ../bbpress/feedback-logged-in.php:13
+msgid "You are already logged in."
+msgstr ""
+
+#: ../bbpress/feedback-no-access.php:13
+msgid "Private"
+msgstr ""
+
+#: ../bbpress/feedback-no-access.php:16
+msgid "You do not have permission to view this forum."
+msgstr ""
+
+#: ../bbpress/feedback-no-forums.php:13
+msgid "No forums were found here!"
+msgstr ""
+
+#: ../bbpress/feedback-no-replies.php:13
+msgid "No replies were found here!"
+msgstr ""
+
+#: ../bbpress/feedback-no-search.php:13
+msgid "No search results were found here!"
+msgstr ""
+
+#: ../bbpress/feedback-no-topics.php:13
+msgid "No topics were found here!"
+msgstr ""
+
+#: ../bbpress/form-anonymous.php:21
+msgid "Name (required):"
+msgstr ""
+
+#: ../bbpress/form-anonymous.php:26
+msgid "Mail (will not be published) (required):"
+msgstr ""
+
+#: ../bbpress/form-anonymous.php:31
+msgid "Website:"
+msgstr ""
+
+#: ../bbpress/form-forum.php:33 ../bbpress/form-topic.php:39
+#, php-format
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../bbpress/form-forum.php:35
+#, php-format
+msgid "Create New Forum in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../bbpress/form-forum.php:35
+msgid "Create New Forum"
+msgstr ""
+
+#: ../bbpress/form-forum.php:45
+msgid ""
+"This forum is closed to new content, however your account still allows you "
+"to do so."
+msgstr ""
+
+#: ../bbpress/form-forum.php:53 ../bbpress/form-reply.php:42
+#: ../bbpress/form-topic.php:59
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr ""
+
+#: ../bbpress/form-forum.php:65
+#, php-format
+msgid "Forum Name (Maximum Length: %d):"
+msgstr ""
+
+#: ../bbpress/form-forum.php:80 ../bbpress/form-reply.php:62
+#: ../bbpress/form-topic.php:88
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+msgstr ""
+
+#: ../bbpress/form-forum.php:89
+msgid "Forum Type:"
+msgstr ""
+
+#: ../bbpress/form-forum.php:98
+msgid "Status:"
+msgstr ""
+
+#: ../bbpress/form-forum.php:107
+msgid "Visibility:"
+msgstr ""
+
+#: ../bbpress/form-forum.php:116
+msgid "Parent Forum:"
+msgstr ""
+
+#: ../bbpress/form-forum.php:121
+msgid "(No Parent)"
+msgstr ""
+
+#: ../bbpress/form-forum.php:136 ../bbpress/form-reply-move.php:70
+#: ../bbpress/form-topic-merge.php:91 ../bbpress/form-topic-split.php:95
+#: ../bbpress/form-topic.php:201 ../woocommerce/single-product-reviews.php:82
+msgid "Submit"
+msgstr ""
+
+#: ../bbpress/form-forum.php:159
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new content."
+msgstr ""
+
+#: ../bbpress/form-forum.php:167
+msgid "You cannot create new forums."
+msgstr ""
+
+#: ../bbpress/form-forum.php:167
+msgid "You must be logged in to create new forums."
+msgstr ""
+
+#: ../bbpress/form-protected.php:14
+msgid "Protected"
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:22
+#, php-format
+msgid "Move reply \"%s\""
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:27
+msgid ""
+"You can either make this reply a new topic with a new title, or merge it "
+"into an existing topic."
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:31
+msgid ""
+"If you choose an existing topic, replies will be ordered by the time and "
+"date they were created."
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:35
+msgid "Move Method"
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:39 ../bbpress/form-topic-split.php:39
+#, php-format
+msgid "New topic in <strong>%s</strong> titled:"
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:40
+#, php-format
+msgid "Moved: %s"
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:47 ../bbpress/form-topic-split.php:47
+msgid "Use an existing topic in this forum:"
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:66 ../bbpress/form-topic-merge.php:87
+#: ../bbpress/form-topic-split.php:91
+msgid "<strong>WARNING:</strong> This process cannot be undone."
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:83
+msgid "You do not have the permissions to edit this reply!"
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:83
+msgid "You cannot edit this reply."
+msgstr ""
+
+#: ../bbpress/form-reply.php:27
+msgid "Reply"
+msgstr ""
+
+#: ../bbpress/form-reply.php:34
+msgid ""
+"This topic is marked as closed to new replies, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+
+#: ../bbpress/form-reply.php:73 ../template/content-single.php:78
+#: ../template/content-singlekb.php:77
+msgid "Tags:"
+msgstr ""
+
+#: ../bbpress/form-reply.php:91 ../bbpress/form-topic.php:162
+msgid "Notify the author of follow-up replies via email"
+msgstr ""
+
+#: ../bbpress/form-reply.php:95 ../bbpress/form-topic.php:166
+msgid "Notify me of follow-up replies via email"
+msgstr ""
+
+#: ../bbpress/form-reply.php:112 ../bbpress/form-topic.php:182
+msgid "Keep a log of this edit:"
+msgstr ""
+
+#: ../bbpress/form-reply.php:116 ../bbpress/form-topic.php:186
+msgid "Optional reason for editing:"
+msgstr ""
+
+#: ../bbpress/form-reply.php:133
+msgid "Add Reply"
+msgstr ""
+
+#: ../bbpress/form-reply.php:156
+#, php-format
+msgid "The topic &#8216;%s&#8217; is closed to new replies."
+msgstr ""
+
+#: ../bbpress/form-reply.php:164 ../bbpress/form-topic.php:224
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr ""
+
+#: ../bbpress/form-reply.php:172
+msgid "You cannot reply to this topic."
+msgstr ""
+
+#: ../bbpress/form-reply.php:172
+msgid "You must be logged in to reply to this topic."
+msgstr ""
+
+#: ../bbpress/form-search.php:14
+msgid "Search for:"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:22
+#, php-format
+msgid "Merge topic \"%s\""
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:27
+msgid ""
+"Select the topic to merge this one into. The destination topic will remain "
+"the lead topic, and this one will change into a reply."
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:28
+msgid ""
+"To keep this topic as the lead, go to the other topic and use the merge tool "
+"from there instead."
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:32
+msgid ""
+"All replies within both topics will be merged chronologically. The order of "
+"the merged replies is based on the time and date they were posted. If the "
+"destination topic was created after this one, it's post date will be updated "
+"to second earlier than this one."
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:36
+msgid "Destination"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:40
+msgid "Merge with this topic:"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:54
+msgid "There are no other topics in this forum to merge with."
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:62 ../bbpress/form-topic-split.php:66
+msgid "Topic Extras"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:69
+msgid "Merge topic subscribers"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:74
+msgid "Merge topic favoriters"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:79
+msgid "Merge topic tags"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:104 ../bbpress/form-topic-split.php:108
+msgid "You do not have the permissions to edit this topic!"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:104 ../bbpress/form-topic-split.php:108
+msgid "You cannot edit this topic."
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:22
+#, php-format
+msgid "Split topic \"%s\""
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:27
+msgid ""
+"When you split a topic, you are slicing it in half starting with the reply "
+"you just selected. Choose to use that reply as a new topic with a new title, "
+"or merge those replies into an existing topic."
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:31
+msgid ""
+"If you use the existing topic option, replies within both topics will be "
+"merged chronologically. The order of the merged replies is based on the time "
+"and date they were posted."
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:35
+msgid "Split Method"
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:40
+#, php-format
+msgid "Split: %s"
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:73
+msgid "Copy subscribers to the new topic"
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:78
+msgid "Copy favoriters to the new topic"
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:83
+msgid "Copy topic tags to the new topic"
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:18
+#, php-format
+msgid "Manage Tag: \"%s\""
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:22
+msgid "Rename"
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:25
+msgid "Leave the slug empty to have one automatically generated."
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:29
+msgid ""
+"Changing the slug affects its permalink. Any links to the old slug will stop "
+"working."
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:35
+msgid "Name:"
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:40
+msgid "Slug:"
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:59
+msgid "Merge"
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:62
+msgid "Merging tags together cannot be undone."
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:68
+msgid "Existing tag:"
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:73
+#, php-format
+msgid ""
+"Are you sure you want to merge the \"%s\" tag into the tag you specified?"
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:88
+msgid "Delete"
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:91
+msgid "This does not delete your topics. Only the tag itself is deleted."
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:94
+msgid "Deleting a tag cannot be undone."
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:95
+msgid "Any links to this tag will no longer function."
+msgstr ""
+
+#: ../bbpress/form-topic-tag.php:101
+#, php-format
+msgid ""
+"Are you sure you want to delete the \"%s\" tag? This is permanent and cannot "
+"be undone."
+msgstr ""
+
+#: ../bbpress/form-topic.php:41
+#, php-format
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../bbpress/form-topic.php:41
+msgid "Create New Topic"
+msgstr ""
+
+#: ../bbpress/form-topic.php:51
+msgid ""
+"This forum is marked as closed to new topics, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+
+#: ../bbpress/form-topic.php:73
+#, php-format
+msgid "Topic Title (Maximum Length: %d):"
+msgstr ""
+
+#: ../bbpress/form-topic.php:99
+msgid "Topic Tags:"
+msgstr ""
+
+#: ../bbpress/form-topic.php:112
+msgid "Forum:"
+msgstr ""
+
+#: ../bbpress/form-topic.php:115
+msgid "(No Forum)"
+msgstr ""
+
+#: ../bbpress/form-topic.php:131
+msgid "Topic Type:"
+msgstr ""
+
+#: ../bbpress/form-topic.php:143
+msgid "Topic Status:"
+msgstr ""
+
+#: ../bbpress/form-topic.php:232
+msgid "You cannot create new topics."
+msgstr ""
+
+#: ../bbpress/form-topic.php:232
+msgid "You must be logged in to create new topics."
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:14 ../bbpress/form-user-edit.php:19
+#: ../framework/vc.php:229 ../woocommerce/single-product-reviews.php:77
+msgid "Name"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:24
+msgid "First Name"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:29
+msgid "Last Name"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:34
+msgid "Nickname"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:39
+msgid "Display Name"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:49 ../bbpress/form-user-edit.php:52
+msgid "Contact Info"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:57
+msgid "Website"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:74 ../bbpress/form-user-edit.php:77
+msgid "About Yourself"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:74 ../bbpress/form-user-edit.php:77
+msgid "About the user"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:82
+msgid "Biographical Info"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:90 ../bbpress/form-user-edit.php:93
+msgid "Account"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:98 ../bbpress/form-user-login.php:17
+#: ../bbpress/form-user-register.php:23
+msgid "Username"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:103 ../bbpress/form-user-register.php:28
+#: ../woocommerce/single-product-reviews.php:79
+msgid "Email"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:115
+#, php-format
+msgid ""
+"There is a pending email address change to <code>%1$s</code>. <a href=\"%2$s"
+"\">Cancel</a>"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:124
+msgid "New Password"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:127
+msgid ""
+"If you would like to change the password type a new one. Otherwise leave "
+"this blank."
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:130
+msgid "Type your new password again."
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:133
+msgid ""
+"Your password should be at least ten characters long. Use upper and lower "
+"case letters, numbers, and symbols to make it even stronger."
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:143 ../bbpress/form-user-edit.php:146
+msgid "User Role"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:153
+msgid "Network Role"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:156
+msgid "Grant this user super admin privileges for the Network."
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:173
+msgid "Save Changes"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:178
+msgid "Update Profile"
+msgstr ""
+
+#: ../bbpress/form-user-edit.php:178
+msgid "Update User"
+msgstr ""
+
+#: ../bbpress/form-user-login.php:14 ../bbpress/form-user-login.php:35
+#: ../framework/include/functions.php:2181
+msgid "Log In"
+msgstr ""
+
+#: ../bbpress/form-user-login.php:22
+msgid "Password"
+msgstr ""
+
+#: ../bbpress/form-user-login.php:28
+msgid "Keep me signed in"
+msgstr ""
+
+#: ../bbpress/form-user-lost-pass.php:18
+msgid "Username or Email"
+msgstr ""
+
+#: ../bbpress/form-user-lost-pass.php:27
+msgid "Reset My Password"
+msgstr ""
+
+#: ../bbpress/form-user-register.php:14
+msgid "Create an Account"
+msgstr ""
+
+#: ../bbpress/form-user-register.php:17
+msgid "Your username must be unique, and cannot be changed later."
+msgstr ""
+
+#: ../bbpress/form-user-register.php:18
+msgid ""
+"We use your email address to email you a secure password and verify your "
+"account."
+msgstr ""
+
+#: ../bbpress/form-user-register.php:36 ../framework/vc.php:2918
+msgid "Register"
+msgstr ""
+
+#: ../bbpress/form-user-roles.php:13
+msgid "Blog Role"
+msgstr ""
+
+#: ../bbpress/form-user-roles.php:20
+msgid "Forum Role"
+msgstr ""
+
+#: ../bbpress/loop-forums.php:18
+msgid "Directory"
+msgstr ""
+
+#: ../bbpress/loop-forums.php:20 ../bbpress/loop-topics.php:21
+msgid "Posts"
+msgstr ""
+
+#: ../bbpress/loop-forums.php:21 ../bbpress/loop-topics.php:22
+msgid "Last Post"
+msgstr ""
+
+#: ../bbpress/loop-search-forum.php:16
+#, php-format
+msgid "Last updated %s"
+msgstr ""
+
+#: ../bbpress/loop-search-forum.php:20
+msgid "Forum: "
+msgstr ""
+
+#: ../bbpress/loop-search-reply.php:16
+msgid "In reply to: "
+msgstr ""
+
+#: ../bbpress/loop-search-topic.php:18
+msgid "Topic: "
+msgstr ""
+
+#: ../bbpress/loop-search-topic.php:25
+msgid "in group forum "
+msgstr ""
+
+#: ../bbpress/loop-search-topic.php:29
+msgid "in forum "
+msgstr ""
+
+#: ../bbpress/loop-single-reply.php:53
+msgid "in reply to: "
+msgstr ""
+
+#: ../bbpress/loop-single-topic.php:65
+#, php-format
+msgid "Started by: %1$s"
+msgstr ""
+
+#: ../bbpress/loop-single-topic.php:73
+#, php-format
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: ../bbpress/loop-topics.php:20
+msgid "Voices"
+msgstr ""
+
+#: ../bbpress/user-details.php:29 ../bbpress/user-profile.php:15
+msgid "Profile"
+msgstr ""
+
+#: ../bbpress/user-details.php:35
+msgid "Topics Started"
+msgstr ""
+
+#: ../bbpress/user-details.php:41
+msgid "Replies Created"
+msgstr ""
+
+#: ../bbpress/user-details.php:48
+msgid "Favorites"
+msgstr ""
+
+#: ../bbpress/user-details.php:58
+msgid "Subscriptions"
+msgstr ""
+
+#: ../bbpress/user-favorites.php:15
+msgid "Favorite Forum Topics"
+msgstr ""
+
+#: ../bbpress/user-favorites.php:26
+msgid "You currently have no favorite topics."
+msgstr ""
+
+#: ../bbpress/user-favorites.php:26
+msgid "This user has no favorite topics."
+msgstr ""
+
+#: ../bbpress/user-profile.php:24
+#, php-format
+msgid "Forum Role: %s"
+msgstr ""
+
+#: ../bbpress/user-profile.php:25
+#, php-format
+msgid "Topics Started: %s"
+msgstr ""
+
+#: ../bbpress/user-profile.php:26
+#, php-format
+msgid "Replies Created: %s"
+msgstr ""
+
+#: ../bbpress/user-replies-created.php:15
+msgid "Forum Replies Created"
+msgstr ""
+
+#: ../bbpress/user-replies-created.php:26
+msgid "You have not replied to any topics."
+msgstr ""
+
+#: ../bbpress/user-replies-created.php:26
+msgid "This user has not replied to any topics."
+msgstr ""
+
+#: ../bbpress/user-subscriptions.php:19
+msgid "Subscribed Forums"
+msgstr ""
+
+#: ../bbpress/user-subscriptions.php:28
+msgid "You are not currently subscribed to any forums."
+msgstr ""
+
+#: ../bbpress/user-subscriptions.php:28
+msgid "This user is not currently subscribed to any forums."
+msgstr ""
+
+#: ../bbpress/user-subscriptions.php:34
+msgid "Subscribed Topics"
+msgstr ""
+
+#: ../bbpress/user-subscriptions.php:45
+msgid "You are not currently subscribed to any topics."
+msgstr ""
+
+#: ../bbpress/user-subscriptions.php:45
+msgid "This user is not currently subscribed to any topics."
+msgstr ""
+
+#: ../bbpress/user-topics-created.php:15
+msgid "Forum Topics Started"
+msgstr ""
+
+#: ../bbpress/user-topics-created.php:26
+msgid "You have not created any topics."
+msgstr ""
+
+#: ../bbpress/user-topics-created.php:26
+msgid "This user has not created any topics."
+msgstr ""
+
+#: ../framework/vc.php:40
+msgid "Counter"
+msgstr ""
+
+#: ../framework/vc.php:212
+msgid "Team"
+msgstr ""
+
+#: ../framework/vc.php:222 ../framework/vc.php:4121
+#: ../framework/meta-field/custom-meta.php:19
+msgid "Image"
+msgstr ""
+
+#: ../framework/vc.php:252
+msgid "Name Color"
+msgstr ""
+
+#: ../framework/vc.php:260
+msgid "Position"
+msgstr ""
+
+#: ../framework/vc.php:267
+msgid "Position Color"
+msgstr ""
+
+#: ../framework/vc.php:275
+msgid "Show Separator"
+msgstr ""
+
+#: ../framework/vc.php:287
+msgid "Separator Color"
+msgstr ""
+
+#: ../framework/vc.php:297
+msgid "Social Icons Color"
+msgstr ""
+
+#: ../framework/vc.php:307
+msgid "Social Icon 1"
+msgstr ""
+
+#: ../framework/vc.php:315
+msgid "Social Icon 1 Link"
+msgstr ""
+
+#: ../framework/vc.php:322
+msgid "Social Icon 1 Target"
+msgstr ""
+
+#: ../framework/vc.php:337
+msgid "Social Icon 2"
+msgstr ""
+
+#: ../framework/vc.php:345
+msgid "Social Icon 2 Link"
+msgstr ""
+
+#: ../framework/vc.php:352
+msgid "Social Icon 2 Target"
+msgstr ""
+
+#: ../framework/vc.php:367
+msgid "Social Icon 3"
+msgstr ""
+
+#: ../framework/vc.php:375
+msgid "Social Icon 3 Link"
+msgstr ""
+
+#: ../framework/vc.php:382
+msgid "Social Icon 3 Target"
+msgstr ""
+
+#: ../framework/vc.php:397
+msgid "Social Icon 4"
+msgstr ""
+
+#: ../framework/vc.php:405
+msgid "Social Icon 4 Link"
+msgstr ""
+
+#: ../framework/vc.php:412
+msgid "Social Icon 4 Target"
+msgstr ""
+
+#: ../framework/vc.php:434 ../framework/vc.php:447 ../framework/vc.php:799
+#: ../framework/vc.php:935 ../framework/vc.php:1336
+msgid "Link URL"
+msgstr ""
+
+#: ../framework/vc.php:444 ../framework/vc.php:796 ../framework/vc.php:932
+msgid "Link"
+msgstr ""
+
+#: ../framework/vc.php:454
+msgid "Link Align"
+msgstr ""
+
+#: ../framework/vc.php:468 ../framework/vc.php:861
+#: ../framework/ReduxCore/options/lipi.php:712
+#: ../framework/ReduxCore/options/lipi.php:1538
+#: ../framework/ReduxCore/options/lipi.php:1573
+msgid "Link Color"
+msgstr ""
+
+#: ../framework/vc.php:485
+msgid "Icon With Text"
+msgstr ""
+
+#: ../framework/vc.php:495 ../framework/vc.php:1377
+msgid "Box Background Color"
+msgstr ""
+
+#: ../framework/vc.php:503
+msgid "Box Border Radius"
+msgstr ""
+
+#: ../framework/vc.php:512 ../framework/vc.php:1386
+msgid "Box Border Color"
+msgstr ""
+
+#: ../framework/vc.php:520
+msgid "Add Box Shadow"
+msgstr ""
+
+#: ../framework/vc.php:531
+msgid "Box Padding"
+msgstr ""
+
+#: ../framework/vc.php:539
+msgid "Box CSS Animation"
+msgstr ""
+
+#: ../framework/vc.php:563 ../framework/ReduxCore/options/lipi.php:1608
+msgid "Icon Name"
+msgstr ""
+
+#: ../framework/vc.php:572
+msgid "Icon Position"
+msgstr ""
+
+#: ../framework/vc.php:603
+msgid "Icon Margin (px)"
+msgstr ""
+
+#: ../framework/vc.php:613
+msgid "Use Custom Icon Size"
+msgstr ""
+
+#: ../framework/vc.php:626
+msgid "Custom Icon Size (px)"
+msgstr ""
+
+#: ../framework/vc.php:636
+msgid "Custom Icon Margin (px)"
+msgstr ""
+
+#: ../framework/vc.php:646 ../framework/vc.php:3167 ../framework/vc.php:3346
+msgid "Icon Color"
+msgstr ""
+
+#: ../framework/vc.php:654 ../framework/vc.php:1244 ../framework/vc.php:3469
+#: ../framework/vc.php:3521 ../framework/vc.php:4192 ../framework/vc.php:4758
+#: ../framework/meta-field/page-meta.php:720
+msgid "Title"
+msgstr ""
+
+#: ../framework/vc.php:676
+msgid "Title Color"
+msgstr ""
+
+#: ../framework/vc.php:684
+msgid "Title Font Size (px)"
+msgstr ""
+
+#: ../framework/vc.php:692 ../framework/meta-field/page-meta.php:457
+msgid "Title Text Transform"
+msgstr ""
+
+#: ../framework/vc.php:705
+msgid "Title Font Weight"
+msgstr ""
+
+#: ../framework/vc.php:725 ../framework/vc.php:2768
+msgid "Title Padding"
+msgstr ""
+
+#: ../framework/vc.php:734
+msgid "Title Margin"
+msgstr ""
+
+#: ../framework/vc.php:743
+msgid "Text"
+msgstr ""
+
+#: ../framework/vc.php:751 ../framework/vc.php:956 ../framework/vc.php:1395
+#: ../framework/meta-field/page-meta.php:411
+#: ../framework/meta-field/page-meta.php:515
+#: ../framework/meta-field/page-meta.php:609
+#: ../framework/meta-field/page-meta.php:843
+#: ../framework/ReduxCore/options/lipi.php:1420
+#: ../framework/ReduxCore/options/lipi.php:1565
+#: ../framework/ReduxCore/options/lipi.php:1911
+#: ../framework/ReduxCore/options/lipi.php:2241
+#: ../framework/ReduxCore/options/lipi.php:2528
+msgid "Text Color"
+msgstr ""
+
+#: ../framework/vc.php:759
+msgid "Custom Top Margin (px)"
+msgstr ""
+
+#: ../framework/vc.php:768
+msgid "Activate Link"
+msgstr ""
+
+#: ../framework/vc.php:781
+msgid "Link Options"
+msgstr ""
+
+#: ../framework/vc.php:806
+msgid "Link Text Transform"
+msgstr ""
+
+#: ../framework/vc.php:819
+msgid "Link Text Font Size"
+msgstr ""
+
+#: ../framework/vc.php:839
+msgid "Link Text Font Weight"
+msgstr ""
+
+#: ../framework/vc.php:871
+msgid "Link Top Margin"
+msgstr ""
+
+#: ../framework/vc.php:889
+msgid "Button"
+msgstr ""
+
+#: ../framework/vc.php:900
+msgid "Botton Margin"
+msgstr ""
+
+#: ../framework/vc.php:909 ../framework/vc.php:2140
+msgid "Botton CSS Animation"
+msgstr ""
+
+#: ../framework/vc.php:942
+msgid "Button Align"
+msgstr ""
+
+#: ../framework/vc.php:965 ../framework/meta-field/page-meta.php:418
+#: ../framework/meta-field/page-meta.php:522
+#: ../framework/ReduxCore/options/lipi.php:1920
+#: ../framework/ReduxCore/options/lipi.php:2250
+#: ../framework/ReduxCore/options/lipi.php:2537
+msgid "Text Size"
+msgstr ""
+
+#: ../framework/vc.php:975
+msgid "Text Padding"
+msgstr ""
+
+#: ../framework/vc.php:985 ../framework/vc.php:1404 ../framework/vc.php:1417
+msgid "Button Color"
+msgstr ""
+
+#: ../framework/vc.php:994
+msgid "Remove Border Bottom"
+msgstr ""
+
+#: ../framework/vc.php:1003
+msgid "Remove Text Shadow"
+msgstr ""
+
+#: ../framework/vc.php:1012 ../framework/vc.php:3335 ../framework/vc.php:3755
+#: ../framework/vc.php:3901
+msgid "Border Radius"
+msgstr ""
+
+#: ../framework/vc.php:1030
+msgid "Message Box"
+msgstr ""
+
+#: ../framework/vc.php:1040
+msgid "Message Box Border"
+msgstr ""
+
+#: ../framework/vc.php:1054
+msgid "Message Box Background Color"
+msgstr ""
+
+#: ../framework/vc.php:1063 ../framework/vc.php:3325
+msgid "Border Color"
+msgstr ""
+
+#: ../framework/vc.php:1073 ../framework/ReduxCore/options/lipi.php:4266
+#: ../framework/ReduxCore/options/lipi.php:4335
+msgid "Title Text"
+msgstr ""
+
+#: ../framework/vc.php:1099 ../framework/meta-field/page-meta.php:726
+msgid "Title Font Size"
+msgstr ""
+
+#: ../framework/vc.php:1108
+msgid "Title Text Weight"
+msgstr ""
+
+#: ../framework/vc.php:1129
+msgid "Title Text Color"
+msgstr ""
+
+#: ../framework/vc.php:1139
+msgid "Short Message Text"
+msgstr ""
+
+#: ../framework/vc.php:1149
+msgid "Short Message Font Size"
+msgstr ""
+
+#: ../framework/vc.php:1158
+msgid "Short Message Text Weight"
+msgstr ""
+
+#: ../framework/vc.php:1179
+msgid "Short Message Text Color"
+msgstr ""
+
+#: ../framework/vc.php:1187 ../framework/vc.php:1333
+msgid "Button Link"
+msgstr ""
+
+#: ../framework/vc.php:1196 ../framework/vc.php:1427
+msgid "Button Text Color"
+msgstr ""
+
+#: ../framework/vc.php:1205
+msgid "Button Background Color"
+msgstr ""
+
+#: ../framework/vc.php:1214
+msgid "Readjust Button Margin Top"
+msgstr ""
+
+#: ../framework/vc.php:1231
+msgid "Pricing Table"
+msgstr ""
+
+#: ../framework/vc.php:1247
+msgid "The title of the service section"
+msgstr ""
+
+#: ../framework/vc.php:1269
+msgid "Price"
+msgstr ""
+
+#: ../framework/vc.php:1278
+msgid "Price Color"
+msgstr ""
+
+#: ../framework/vc.php:1286
+msgid "Price Weight"
+msgstr ""
+
+#: ../framework/vc.php:1307
+msgid "Price Font Size"
+msgstr ""
+
+#: ../framework/vc.php:1316
+msgid "Currency"
+msgstr ""
+
+#: ../framework/vc.php:1325
+msgid "Price Period"
+msgstr ""
+
+#: ../framework/vc.php:1343
+msgid "Make Box Standout"
+msgstr ""
+
+#: ../framework/vc.php:1357
+msgid "Box Standout Border Color"
+msgstr ""
+
+#: ../framework/vc.php:1367
+msgid "Disable Box Shadow"
+msgstr ""
+
+#: ../framework/vc.php:1438
+msgid "Pricing Option"
+msgstr ""
+
+#: ../framework/vc.php:1449
+msgid "Option Text"
+msgstr ""
+
+#: ../framework/vc.php:1452
+msgid "An option this Service table includes"
+msgstr ""
+
+#: ../framework/vc.php:1471
+msgid "Portfolio List"
+msgstr ""
+
+#: ../framework/vc.php:1483
+msgid "Portfolio Type"
+msgstr ""
+
+#: ../framework/vc.php:1496 ../framework/vc.php:4480
+msgid "Apply Padding Left/Right Zero"
+msgstr ""
+
+#: ../framework/vc.php:1506
+msgid "Display Portfolio Filter"
+msgstr ""
+
+#: ../framework/vc.php:1518 ../framework/vc.php:4502
+msgid "Filter Padding"
+msgstr ""
+
+#: ../framework/vc.php:1529 ../framework/vc.php:4513
+msgid "Filter Color"
+msgstr ""
+
+#: ../framework/vc.php:1539 ../framework/vc.php:4523
+msgid "Filter Align"
+msgstr ""
+
+#: ../framework/vc.php:1553 ../framework/vc.php:4537
+msgid "Filter Order"
+msgstr ""
+
+#: ../framework/vc.php:1583
+msgid "Portfolio by Selected Category"
+msgstr ""
+
+#: ../framework/vc.php:1593
+msgid "Portfolio by Selected Projects"
+msgstr ""
+
+#: ../framework/vc.php:1603 ../framework/vc.php:4587
+msgid "Number of portfolio records per page"
+msgstr ""
+
+#: ../framework/vc.php:1606 ../framework/vc.php:4590 ../framework/vc.php:4820
+msgid "NOTE: value -1 display all result"
+msgstr ""
+
+#: ../framework/vc.php:1613
+msgid "Portfolio Order"
+msgstr ""
+
+#: ../framework/vc.php:1626
+msgid "Portfolio Order By"
+msgstr ""
+
+#: ../framework/vc.php:1642
+msgid "Portfolio Column"
+msgstr ""
+
+#: ../framework/vc.php:1684 ../framework/vc.php:4668
+msgid "Title Link Color"
+msgstr ""
+
+#: ../framework/vc.php:1706 ../framework/vc.php:4690
+msgid "Category Text Color"
+msgstr ""
+
+#: ../framework/vc.php:1717
+msgid "Category Text Size"
+msgstr ""
+
+#: ../framework/vc.php:1728 ../framework/vc.php:2516 ../framework/vc.php:4700
+msgid "Show Load More"
+msgstr ""
+
+#: ../framework/vc.php:1741 ../framework/vc.php:4713
+msgid "Show Load More Text Align"
+msgstr ""
+
+#: ../framework/vc.php:1756 ../framework/vc.php:4728
+msgid "Show Load More margin"
+msgstr ""
+
+#: ../framework/vc.php:1773
+msgid "Logo Carousel"
+msgstr ""
+
+#: ../framework/vc.php:1784 ../framework/vc.php:4344
+msgid "Attached Logo"
+msgstr ""
+
+#: ../framework/vc.php:1808
+msgid "Carousel Testimonial"
+msgstr ""
+
+#: ../framework/vc.php:1820
+msgid "No. Of Testimonial"
+msgstr ""
+
+#: ../framework/vc.php:1823
+msgid " -1 will display all records"
+msgstr ""
+
+#: ../framework/vc.php:1830
+msgid "Testimonial by Selected Category"
+msgstr ""
+
+#: ../framework/vc.php:1840
+msgid "Testimonial Order Type"
+msgstr ""
+
+#: ../framework/vc.php:1854
+msgid "Order By"
+msgstr ""
+
+#: ../framework/vc.php:1869
+msgid "Testimonial Color"
+msgstr ""
+
+#: ../framework/vc.php:1878
+msgid "Testimonial Font Size"
+msgstr ""
+
+#: ../framework/vc.php:1881 ../framework/ReduxCore/options/lipi.php:1601
+msgid "Default: 24px"
+msgstr ""
+
+#: ../framework/vc.php:1887
+msgid "Testimonial Weight"
+msgstr ""
+
+#: ../framework/vc.php:1908
+msgid "Testimonial Line Height"
+msgstr ""
+
+#: ../framework/vc.php:1917
+msgid "Client Name Color"
+msgstr ""
+
+#: ../framework/vc.php:1926
+msgid "Client Designation Color"
+msgstr ""
+
+#: ../framework/vc.php:1944
+msgid "Shop - Product List"
+msgstr ""
+
+#: ../framework/vc.php:1958
+msgid " Default: -1 will display all records"
+msgstr ""
+
+#: ../framework/vc.php:2132
+msgid "Disable Add To Cart"
+msgstr ""
+
+#: ../framework/vc.php:2305
+msgid "Masonry Blog Posts"
+msgstr ""
+
+#: ../framework/vc.php:2315
+msgid "Design Type"
+msgstr ""
+
+#: ../framework/vc.php:2413 ../framework/vc.php:2786
+#: ../framework/meta-field/page-meta.php:426
+#: ../framework/meta-field/page-meta.php:529
+#: ../framework/meta-field/page-meta.php:734
+#: ../framework/ReduxCore/options/lipi.php:1936
+#: ../framework/ReduxCore/options/lipi.php:2266
+#: ../framework/ReduxCore/options/lipi.php:2553
+msgid "Title Weight"
+msgstr ""
+
+#: ../framework/vc.php:2529
+msgid "Load More - Text Align"
+msgstr ""
+
+#: ../framework/vc.php:2544
+msgid "Load More - Margin"
+msgstr ""
+
+#: ../framework/vc.php:2561
+msgid "Blog Posts"
+msgstr ""
+
+#: ../framework/vc.php:2572
+msgid "Blog Post Style"
+msgstr ""
+
+#: ../framework/vc.php:2691
+msgid "Image Carousel Slider"
+msgstr ""
+
+#: ../framework/vc.php:2701
+msgid "Attached Image"
+msgstr ""
+
+#: ../framework/vc.php:2711
+msgid "Image Size"
+msgstr ""
+
+#: ../framework/vc.php:2721
+msgid "Image Margin"
+msgstr ""
+
+#: ../framework/vc.php:2730 ../framework/vc.php:4129
+msgid "Image Align"
+msgstr ""
+
+#: ../framework/vc.php:2745
+msgid "Enable Image Title"
+msgstr ""
+
+#: ../framework/vc.php:2807
+msgid "Enable Popup Image Display"
+msgstr ""
+
+#: ../framework/vc.php:2821
+msgid "Login"
+msgstr ""
+
+#: ../framework/vc.php:2895
+msgid "Register Link"
+msgstr ""
+
+#: ../framework/vc.php:2898
+msgid "Register Link URL"
+msgstr ""
+
+#: ../framework/vc.php:2904
+msgid "Lost Password Link"
+msgstr ""
+
+#: ../framework/vc.php:2907
+msgid "Lost Password Link URL"
+msgstr ""
+
+#: ../framework/vc.php:3007
+msgid "KnowledgeBase Category Articles Landing Style"
+msgstr ""
+
+#: ../framework/vc.php:3019 ../framework/vc.php:3247
+msgid "Knowledgebase Style"
+msgstr ""
+
+#: ../framework/vc.php:3031 ../framework/vc.php:3767 ../framework/vc.php:3913
+msgid "Number Of Category Records"
+msgstr ""
+
+#: ../framework/vc.php:3041
+msgid "Knowledgebase Columns"
+msgstr ""
+
+#: ../framework/vc.php:3054 ../framework/vc.php:3778 ../framework/vc.php:3935
+msgid "Category Display Order"
+msgstr ""
+
+#: ../framework/vc.php:3066 ../framework/vc.php:3790 ../framework/vc.php:3947
+msgid "Category Display OrderBy"
+msgstr ""
+
+#: ../framework/vc.php:3091 ../framework/vc.php:3376
+msgid "Page Records Display Order"
+msgstr ""
+
+#: ../framework/vc.php:3104 ../framework/vc.php:3389
+msgid "Page Records Display Order By"
+msgstr ""
+
+#: ../framework/vc.php:3121
+msgid "Display Child Category as Main Category"
+msgstr ""
+
+#: ../framework/vc.php:3148 ../framework/vc.php:3420 ../framework/vc.php:3806
+#: ../framework/vc.php:3963
+msgid "Private Category Text"
+msgstr ""
+
+#: ../framework/vc.php:3158 ../framework/vc.php:3430
+msgid "Private Category Text Color"
+msgstr ""
+
+#: ../framework/vc.php:3185
+msgid "Display Read More Text"
+msgstr ""
+
+#: ../framework/vc.php:3197
+msgid "Display Total Post Count on the Category Title"
+msgstr ""
+
+#: ../framework/vc.php:3209
+msgid "Post Count Color"
+msgstr ""
+
+#: ../framework/vc.php:3219
+msgid "Knowledgebase Category ID (comma seprated ID)"
+msgstr ""
+
+#: ../framework/vc.php:3235
+msgid "KnowledgeBase Category Landing Style"
+msgstr ""
+
+#: ../framework/vc.php:3259 ../framework/ReduxCore/options/lipi.php:3724
+msgid "Number Of Records"
+msgstr ""
+
+#: ../framework/vc.php:3296
+msgid "Limit your description characters"
+msgstr ""
+
+#: ../framework/vc.php:3304
+msgid "Article count text box"
+msgstr ""
+
+#: ../framework/vc.php:3305
+msgid "Default text: articles in this collection"
+msgstr ""
+
+#: ../framework/vc.php:3315 ../framework/ReduxCore/options/lipi.php:704
+#: ../framework/ReduxCore/options/lipi.php:944
+#: ../framework/ReduxCore/options/lipi.php:1044
+#: ../framework/ReduxCore/options/lipi.php:1394
+#: ../framework/ReduxCore/options/lipi.php:1482
+#: ../framework/ReduxCore/options/lipi.php:1557
+#: ../framework/vc-include/row.php:89
+msgid "Background Color"
+msgstr ""
+
+#: ../framework/vc.php:3356
+msgid "Default Icon Code Name"
+msgstr ""
+
+#: ../framework/vc.php:3366
+msgid "Icon Size"
+msgstr ""
+
+#: ../framework/vc.php:3439
+msgid "Exclude Knowledge Base Category (comma seprated ID)"
+msgstr ""
+
+#: ../framework/vc.php:3458
+msgid "KnowledgeBase Widget Category"
+msgstr ""
+
+#: ../framework/vc.php:3478
+msgid "Show post counts"
+msgstr ""
+
+#: ../framework/vc.php:3487
+msgid "Count Text Color"
+msgstr ""
+
+#: ../framework/vc.php:3496
+msgid "Count Background Color"
+msgstr ""
+
+#: ../framework/vc.php:3510
+msgid "KnowledgeBase Widget Articles"
+msgstr ""
+
+#: ../framework/vc.php:3546
+msgid "Title Align"
+msgstr ""
+
+#: ../framework/vc.php:3561
+msgid "Display"
+msgstr ""
+
+#: ../framework/vc.php:3575
+msgid "Number Of Article"
+msgstr ""
+
+#: ../framework/vc.php:3591
+msgid "Article Order"
+msgstr ""
+
+#: ../framework/vc.php:3607
+msgid "KnowledgeBase Single Category Record Widget"
+msgstr ""
+
+#: ../framework/vc.php:3619
+msgid "Number Of Records Per Page"
+msgstr ""
+
+#: ../framework/vc.php:3644
+msgid "view Text"
+msgstr ""
+
+#: ../framework/vc.php:3653 ../framework/vc.php:4037
+msgid "Post Order"
+msgstr ""
+
+#: ../framework/vc.php:3666 ../framework/vc.php:4050
+msgid "Post Order By"
+msgstr ""
+
+#: ../framework/vc.php:3683 ../framework/vc.php:4067
+msgid "Include Child Post"
+msgstr ""
+
+#: ../framework/vc.php:3695
+msgid "Knowledgebase Category ID (ENTER ONLY SINGLE ID)"
+msgstr ""
+
+#: ../framework/vc.php:3711
+msgid "Knowledgebase Tree Menu"
+msgstr ""
+
+#: ../framework/vc.php:3736 ../framework/vc.php:3882
+msgid "Root tag <li> padding"
+msgstr ""
+
+#: ../framework/vc.php:3746 ../framework/vc.php:3892
+msgid "Root tag <li> Background Color"
+msgstr ""
+
+#: ../framework/vc.php:3817 ../framework/vc.php:3974
+msgid "Records Under Category Display Order"
+msgstr ""
+
+#: ../framework/vc.php:3831 ../framework/vc.php:3988
+msgid "Records Under Category Display Order By"
+msgstr ""
+
+#: ../framework/vc.php:3853
+msgid "Knowledgebase Ajax Content Load"
+msgstr ""
+
+#: ../framework/vc.php:3924
+msgid "Open X Loop Category Records"
+msgstr ""
+
+#: ../framework/vc.php:4015 ../framework/ReduxCore/options/lipi.php:2902
+msgid "FAQ"
+msgstr ""
+
+#: ../framework/vc.php:4027
+msgid "Number Of Post Per Page"
+msgstr ""
+
+#: ../framework/vc.php:4079
+msgid "Hide Pagination"
+msgstr ""
+
+#: ../framework/vc.php:4091
+msgid "Category ID (ENTER ONLY SINGLE ID)"
+msgstr ""
+
+#: ../framework/vc.php:4109
+msgid "Image Frame"
+msgstr ""
+
+#: ../framework/vc.php:4144
+msgid "Remove Box Shadow"
+msgstr ""
+
+#: ../framework/vc.php:4153
+msgid "Image Box Padding"
+msgstr ""
+
+#: ../framework/vc.php:4163
+msgid "Image Radius"
+msgstr ""
+
+#: ../framework/vc.php:4172
+msgid "Image Animation"
+msgstr ""
+
+#: ../framework/vc.php:4216
+msgid "Title Text Margin"
+msgstr ""
+
+#: ../framework/vc.php:4226 ../framework/ReduxCore/options/lipi.php:665
+#: ../framework/ReduxCore/options/lipi.php:853
+#: ../framework/ReduxCore/options/lipi.php:981
+#: ../framework/ReduxCore/options/lipi.php:1127
+#: ../framework/ReduxCore/options/lipi.php:1205
+msgid "Font Color"
+msgstr ""
+
+#: ../framework/vc.php:4235 ../framework/vc-include/row.php:43
+msgid "Text Align"
+msgstr ""
+
+#: ../framework/vc.php:4278
+msgid "Image short description"
+msgstr ""
+
+#: ../framework/vc.php:4297
+msgid "Description Font Color"
+msgstr ""
+
+#: ../framework/vc.php:4333
+msgid "Portfolio Images"
+msgstr ""
+
+#: ../framework/vc.php:4370
+msgid "Masonry Columns"
+msgstr ""
+
+#: ../framework/vc.php:4408 ../framework/ReduxCore/options/lipi.php:3382
+msgid "Social Share"
+msgstr ""
+
+#: ../framework/vc.php:4420
+msgid "Display Social Share"
+msgstr ""
+
+#: ../framework/vc.php:4455 ../framework/ReduxCore/options/lipi.php:3483
+msgid "Services"
+msgstr ""
+
+#: ../framework/vc.php:4467
+msgid "Services Type"
+msgstr ""
+
+#: ../framework/vc.php:4490
+msgid "Display services Filter"
+msgstr ""
+
+#: ../framework/vc.php:4567
+msgid "Services by Selected Category"
+msgstr ""
+
+#: ../framework/vc.php:4577
+msgid "Services by Selected Projects"
+msgstr ""
+
+#: ../framework/vc.php:4597
+msgid "Services Order"
+msgstr ""
+
+#: ../framework/vc.php:4610
+msgid "Services Order By"
+msgstr ""
+
+#: ../framework/vc.php:4626
+msgid "Services Column"
+msgstr ""
+
+#: ../framework/vc.php:4746
+msgid "Pages"
+msgstr ""
+
+#: ../framework/vc.php:4796
+msgid "Enter Page ID"
+msgstr ""
+
+#: ../framework/vc.php:4799
+msgid "Page ID seprated by comma"
+msgstr ""
+
+#: ../framework/vc.php:4807
+msgid "Pages by Selected Category"
+msgstr ""
+
+#: ../framework/vc.php:4817
+msgid "Number of Pages records per page"
+msgstr ""
+
+#: ../framework/vc.php:4827
+msgid "Page Order"
+msgstr ""
+
+#: ../framework/vc.php:4840
+msgid "Page Order By"
+msgstr ""
+
+#: ../framework/vc.php:4862
+msgid "Video"
+msgstr ""
+
+#: ../framework/vc.php:4874
+msgid "Video URL"
+msgstr ""
+
+#: ../framework/vc.php:4884
+msgid "Video Image"
+msgstr ""
+
+#: ../framework/vc.php:4901
+msgid "Player Icon Font Size"
+msgstr ""
+
+#: ../framework/vc.php:4912
+msgid "Player Icon Margin"
+msgstr ""
+
+#: ../framework/include/functions.php:311
+#: ../framework/include/functions.php:419
+#: ../framework/include/functions.php:586
+msgid "Home"
+msgstr ""
+
+#: ../framework/include/functions.php:797
+msgid "Archives"
+msgstr ""
+
+#: ../framework/include/functions.php:820
+msgid "Search Results for: "
+msgstr ""
+
+#: ../framework/include/functions.php:1784
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../framework/include/functions.php:1788
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../framework/include/functions.php:1789
+msgid "(Edit)"
+msgstr ""
+
+#: ../framework/include/functions.php:1794
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../framework/include/functions.php:1824
+msgid "All"
+msgstr ""
+
+#: ../framework/include/hook.php:312
+msgid "Sidebar"
+msgstr ""
+
+#: ../framework/include/hook.php:318
+msgid "Blog/Page Sidebar"
+msgstr ""
+
+#: ../framework/include/hook.php:322
+msgid "Footer Box 1"
+msgstr ""
+
+#: ../framework/include/hook.php:328
+msgid "Footer First Block Sidebar"
+msgstr ""
+
+#: ../framework/include/hook.php:332
+msgid "Footer Box 2"
+msgstr ""
+
+#: ../framework/include/hook.php:338
+msgid "Footer Second Block Sidebar"
+msgstr ""
+
+#: ../framework/include/hook.php:342
+msgid "Footer Box 3"
+msgstr ""
+
+#: ../framework/include/hook.php:348
+msgid "Footer Third Block Sidebar"
+msgstr ""
+
+#: ../framework/include/hook.php:352
+msgid "Footer Box 4"
+msgstr ""
+
+#: ../framework/include/hook.php:358
+msgid "Footer Fourth Block Sidebar"
+msgstr ""
+
+#: ../framework/include/hook.php:362
+msgid "KB Category Sidebar"
+msgstr ""
+
+#: ../framework/include/hook.php:368
+msgid "Knowledge Base Category Page Sidebar"
+msgstr ""
+
+#: ../framework/include/hook.php:371
+msgid "KB Single Post Sidebar"
+msgstr ""
+
+#: ../framework/include/hook.php:377
+msgid "Knowledge Base Single Page Sidebar"
+msgstr ""
+
+#: ../framework/include/hook.php:381
+msgid "FAQ Sidebar"
+msgstr ""
+
+#: ../framework/include/hook.php:387
+msgid "FAQ Category Page Sidebar"
+msgstr ""
+
+#: ../framework/include/hook.php:394
+#: ../framework/ReduxCore/options/lipi.php:606
+#: ../framework/ReduxCore/options/lipi.php:4406
+msgid "WooCommerce"
+msgstr ""
+
+#: ../framework/include/hook.php:400
+msgid "WooCommerce Shop/Product Page Sidebar"
+msgstr ""
+
+#: ../framework/include/hook.php:404
+msgid "Header Nav - Woo Menu"
+msgstr ""
+
+#: ../framework/include/hook.php:410
+msgid "WooCommerce Shopping Basket"
+msgstr ""
+
+#: ../framework/include/hook.php:417
+#: ../framework/ReduxCore/options/lipi.php:4319
+msgid "bbPress"
+msgstr ""
+
+#: ../framework/include/hook.php:423
+msgid "bbPress Sidebar"
+msgstr ""
+
+#: ../framework/include/hook.php:428
+msgid "Header - Social Icon"
+msgstr ""
+
+#: ../framework/include/hook.php:434
+msgid "Header Social Icons Section"
+msgstr ""
+
+#: ../framework/include/hook.php:439
+msgid "Header - Icon With Text"
+msgstr ""
+
+#: ../framework/include/hook.php:445
+msgid "Header Custom Text Section"
+msgstr ""
+
+#: ../framework/include/hook.php:450
+msgid "Top Header - Icon With Text"
+msgstr ""
+
+#: ../framework/include/hook.php:456
+msgid "Top Header Custom Text Section"
+msgstr ""
+
+#: ../framework/include/hook.php:472
+msgid "Post Like"
+msgstr ""
+
+#: ../framework/include/hook.php:473
+msgid "Post Unlike"
+msgstr ""
+
+#: ../framework/include/hook.php:474
+msgid "Post Visitors"
+msgstr ""
+
+#: ../framework/include/hook.php:486
+msgid " like"
+msgstr ""
+
+#: ../framework/include/hook.php:488 ../framework/include/hook.php:497
+msgid "--"
+msgstr ""
+
+#: ../framework/include/hook.php:495
+msgid " unlike"
+msgstr ""
+
+#: ../framework/include/template-tags.php:124
+#: ../template/kb/content-ajaxload.php:57
+msgid "&nbsp;views "
+msgstr ""
+
+#: ../framework/include/template-tags.php:135
+#: ../framework/include/template-tags.php:147
+#: ../template/kb/content-ajaxload.php:67
+msgid "&nbsp;likes "
+msgstr ""
+
+#: ../framework/meta-field/custom-meta.php:11
+msgid "Testimonial"
+msgstr ""
+
+#: ../framework/meta-field/custom-meta.php:26
+msgid "Person Name"
+msgstr ""
+
+#: ../framework/meta-field/custom-meta.php:32
+msgid "Person Designation"
+msgstr ""
+
+#: ../framework/meta-field/custom-meta.php:38
+msgid "Message"
+msgstr ""
+
+#: ../framework/meta-field/kb-meta.php:13
+#: ../framework/ReduxCore/options/lipi.php:3042
+msgid "Attached Files"
+msgstr ""
+
+#: ../framework/meta-field/kb-meta.php:21
+msgid "Allow attached files access to only login users"
+msgstr ""
+
+#: ../framework/meta-field/kb-meta.php:28
+msgid "Login Message"
+msgstr ""
+
+#: ../framework/meta-field/kb-meta.php:38
+msgid "File {#}"
+msgstr ""
+
+#: ../framework/meta-field/kb-meta.php:39
+msgid "Add Another File"
+msgstr ""
+
+#: ../framework/meta-field/kb-meta.php:40
+msgid "Remove Add File"
+msgstr ""
+
+#: ../framework/meta-field/kb-meta.php:47
+msgid "Upload Files/Image"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:14
+msgid "Quote Post Format"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:22
+msgid "Quote"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:37
+msgid "Audio Post Format"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:45
+msgid "Audio Link "
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:60
+msgid "Link Post Format"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:68
+msgid "Link "
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:84
+msgid "Navigation Style Controls"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:94
+#: ../framework/ReduxCore/options/lipi.php:1738
+#: ../framework/ReduxCore/options/lipi.php:2066
+#: ../framework/ReduxCore/options/lipi.php:2352
+msgid "Nav Bar Style"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:107
+msgid "Without Background (White Backgorund)"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:108
+msgid "With Transparent Background"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:113
+msgid "Hide Navigation Area Initially"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:114
+msgid ""
+"Enabling this option will initially hide the header, and it will only "
+"display when the user scrolls down the page. (NOTE: Sticky Menu, must be "
+"enable to display menu)"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:120
+#: ../framework/ReduxCore/options/lipi.php:1749
+#: ../framework/ReduxCore/options/lipi.php:2077
+#: ../framework/ReduxCore/options/lipi.php:2363
+msgid "Add Nav Background"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:127
+#: ../framework/ReduxCore/options/lipi.php:1758
+#: ../framework/ReduxCore/options/lipi.php:2086
+#: ../framework/ReduxCore/options/lipi.php:2372
+msgid "Nav Background Color"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:135
+msgid "Nav Background Color Opacity"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:144
+msgid "Add Nav Border Bottom"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:145
+msgid ""
+"If checked, transparent border will be added on header nav bar (works best "
+"with header type \"Transparent Background\")"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:151
+msgid "Nav Border Bottom Color"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:159
+msgid "Nav Border Bottom Color Opacity"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:168
+msgid "Add Nav Box Shadow"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:196
+#: ../framework/ReduxCore/options/lipi.php:1769
+#: ../framework/ReduxCore/options/lipi.php:2099
+#: ../framework/ReduxCore/options/lipi.php:2386
+msgid "Page Header Configuration"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:205
+msgid "Activate Top Header"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:212
+msgid "Hide Header Bar"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:219
+#: ../framework/ReduxCore/options/lipi.php:1776
+#: ../framework/ReduxCore/options/lipi.php:2106
+#: ../framework/ReduxCore/options/lipi.php:2393
+msgid "Re-adjust Header Height/Padding"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:227
+msgid "Responsive :: Re-adjust Header Height/Padding"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:236
+#: ../framework/ReduxCore/options/lipi.php:1792
+#: ../framework/ReduxCore/options/lipi.php:2122
+#: ../framework/ReduxCore/options/lipi.php:2409
+msgid "Page Header Background Color"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:243
+msgid "Page Header Background Linear Gradient Color"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:252
+msgid "Page Header Image"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:253
+msgid ""
+"Upload image for your header (Note: Does not work if, place Slider "
+"Revolution shortcode or checked Lipi slider) "
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:264
+#: ../framework/meta-field/page-meta.php:707
+#: ../framework/ReduxCore/options/lipi.php:1817
+#: ../framework/ReduxCore/options/lipi.php:2147
+#: ../framework/ReduxCore/options/lipi.php:2434
+msgid "Background Image Display Position"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:270
+#: ../framework/meta-field/page-meta.php:713
+msgid "Center Top"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:271
+#: ../framework/meta-field/page-meta.php:714
+msgid "Center Center"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:272
+#: ../framework/meta-field/page-meta.php:715
+msgid "Center Bottom"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:277
+#: ../framework/ReduxCore/options/lipi.php:1808
+#: ../framework/ReduxCore/options/lipi.php:2138
+#: ../framework/ReduxCore/options/lipi.php:2425
+msgid "Apply Parallax Effect For the Upload Image"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:278
+#: ../framework/ReduxCore/options/lipi.php:1809
+#: ../framework/ReduxCore/options/lipi.php:2139
+#: ../framework/ReduxCore/options/lipi.php:2426
+msgid "If checked, Parallax effect will activate"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:284
+#: ../framework/ReduxCore/options/lipi.php:1829
+#: ../framework/ReduxCore/options/lipi.php:2159
+#: ../framework/ReduxCore/options/lipi.php:2446
+msgid "Remove Opacity (Transparency) For the Upload Image"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:285
+#: ../framework/ReduxCore/options/lipi.php:1830
+#: ../framework/ReduxCore/options/lipi.php:2160
+#: ../framework/ReduxCore/options/lipi.php:2447
+msgid "If checked, background opacity Will be removed"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:291
+#: ../framework/ReduxCore/options/lipi.php:1838
+#: ../framework/ReduxCore/options/lipi.php:2168
+#: ../framework/ReduxCore/options/lipi.php:2455
+msgid "Background Opacity Color For the Upload Image"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:292
+msgid "Replace default opacity color"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:299
+msgid "Background Color Opacity Depth"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:307
+msgid "Slider Revolution ShortCode"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:314
+#: ../framework/ReduxCore/options/lipi.php:1849
+#: ../framework/ReduxCore/options/lipi.php:2179
+#: ../framework/ReduxCore/options/lipi.php:2466
+msgid "Activate Search Box"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:315
+#: ../framework/ReduxCore/options/lipi.php:1850
+#: ../framework/ReduxCore/options/lipi.php:2180
+#: ../framework/ReduxCore/options/lipi.php:2467
+msgid "If checked, Lipi ajax search box will appear on the header"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:321
+#: ../framework/ReduxCore/options/lipi.php:1858
+#: ../framework/ReduxCore/options/lipi.php:2188
+#: ../framework/ReduxCore/options/lipi.php:2475
+msgid "Search Box Display Column Layout"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:328
+msgid "50% Width"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:329
+msgid "58% Width"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:330
+msgid "66% Width"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:331
+msgid "75% Width"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:332
+msgid "83% Width"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:333
+msgid "91% Width"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:334
+msgid "100% Width"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:340
+#: ../framework/ReduxCore/options/lipi.php:1874
+#: ../framework/ReduxCore/options/lipi.php:2204
+#: ../framework/ReduxCore/options/lipi.php:2491
+msgid "Make Search Box Appear Center"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:341
+#: ../framework/ReduxCore/options/lipi.php:1875
+#: ../framework/ReduxCore/options/lipi.php:2492
+msgid ""
+"Display search box on the center, NOTE: If activate, column layout will not "
+"work"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:362
+#: ../framework/ReduxCore/options/lipi.php:1884
+#: ../framework/ReduxCore/options/lipi.php:2214
+#: ../framework/ReduxCore/options/lipi.php:2501
+msgid "Header Text Settings"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:371
+#: ../framework/ReduxCore/options/lipi.php:1891
+#: ../framework/ReduxCore/options/lipi.php:2221
+#: ../framework/ReduxCore/options/lipi.php:2508
+msgid "Text Alignment"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:372
+msgid "Specify Title, Subtitle text alignment"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:377
+#: ../framework/meta-field/page-meta.php:836
+#: ../framework/meta-field/page-meta.php:880
+msgid "Left"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:378
+#: ../framework/meta-field/page-meta.php:837
+msgid "Center"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:379
+#: ../framework/meta-field/page-meta.php:838
+#: ../framework/meta-field/page-meta.php:881
+msgid "Right"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:384
+msgid "Disable Main/Replacement Title"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:385
+msgid "If checked, title will be disable"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:391
+msgid "Replacement Title"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:392
+msgid "New page tagline"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:402
+msgid "[+] Replacement Title Text Style"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:403
+#: ../framework/meta-field/page-meta.php:507
+#: ../framework/meta-field/page-meta.php:601
+#: ../framework/meta-field/page-meta.php:686
+msgid "Add Another Entry"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:404
+#: ../framework/meta-field/page-meta.php:508
+#: ../framework/meta-field/page-meta.php:602
+#: ../framework/meta-field/page-meta.php:687
+msgid "Remove Entry"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:433
+#: ../framework/meta-field/page-meta.php:535
+#: ../framework/meta-field/page-meta.php:741
+#: ../framework/meta-field/page-meta.php:797
+msgid "Thin 100"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:434
+#: ../framework/meta-field/page-meta.php:536
+#: ../framework/meta-field/page-meta.php:742
+#: ../framework/meta-field/page-meta.php:798
+msgid "Extra-Light 200"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:435
+#: ../framework/meta-field/page-meta.php:537
+#: ../framework/meta-field/page-meta.php:743
+#: ../framework/meta-field/page-meta.php:799
+msgid "Light 300"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:436
+#: ../framework/meta-field/page-meta.php:538
+#: ../framework/meta-field/page-meta.php:744
+#: ../framework/meta-field/page-meta.php:800
+msgid "Regular 400"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:437
+#: ../framework/meta-field/page-meta.php:539
+#: ../framework/meta-field/page-meta.php:745
+#: ../framework/meta-field/page-meta.php:801
+msgid "Medium 500"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:438
+#: ../framework/meta-field/page-meta.php:540
+#: ../framework/meta-field/page-meta.php:746
+#: ../framework/meta-field/page-meta.php:802
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:439
+#: ../framework/meta-field/page-meta.php:541
+#: ../framework/meta-field/page-meta.php:747
+#: ../framework/meta-field/page-meta.php:803
+msgid "Bold 700"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:440
+#: ../framework/meta-field/page-meta.php:542
+#: ../framework/meta-field/page-meta.php:748
+#: ../framework/meta-field/page-meta.php:804
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:441
+#: ../framework/meta-field/page-meta.php:543
+#: ../framework/meta-field/page-meta.php:749
+#: ../framework/meta-field/page-meta.php:805
+msgid "Ultra-Bold 900"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:446
+#: ../framework/meta-field/page-meta.php:548
+msgid "Font Family"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:451
+#: ../framework/meta-field/page-meta.php:553
+msgid "Poppins"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:452
+#: ../framework/meta-field/page-meta.php:554
+msgid "Montserrat"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:463
+#: ../framework/meta-field/page-meta.php:566
+msgid "Uppercase"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:464
+#: ../framework/meta-field/page-meta.php:567
+msgid "Capitalize"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:465
+#: ../framework/meta-field/page-meta.php:568
+msgid "None"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:470
+#: ../framework/meta-field/page-meta.php:573
+#: ../framework/ReduxCore/options/lipi.php:832
+#: ../framework/ReduxCore/options/lipi.php:993
+#: ../framework/ReduxCore/options/lipi.php:1106
+#: ../framework/ReduxCore/options/lipi.php:1176
+#: ../framework/ReduxCore/options/lipi.php:1928
+#: ../framework/ReduxCore/options/lipi.php:2258
+#: ../framework/ReduxCore/options/lipi.php:2545
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:478
+#: ../framework/meta-field/page-meta.php:581
+msgid "Padding"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:486
+msgid "Line Height"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:495
+#: ../framework/ReduxCore/options/lipi.php:4297
+msgid "Subtitle Text"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:496
+msgid "Enter your subtitle text (will appear under title)"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:506
+msgid "[+] Subtitle Text Style"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:559
+#: ../framework/ReduxCore/options/lipi.php:840
+#: ../framework/ReduxCore/options/lipi.php:1010
+#: ../framework/ReduxCore/options/lipi.php:1114
+#: ../framework/ReduxCore/options/lipi.php:1184
+msgid "Text Transform"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:589
+msgid "Disable Breadcrumb"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:590
+msgid "If checked, breadcrumb will be disable"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:600
+msgid "[+] Breadcrumb Style"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:616
+msgid "Link Text Color"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:623
+msgid "Link Text Hover Color"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:629
+msgid "Breadcrumb Speration/Arrow color"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:658
+msgid "Lipi Slider (Header Slider)"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:667
+msgid "Activate Lipi Slider"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:674
+msgid "Lipi Slider Height"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:685
+msgid "Lipi Slider {#}"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:694
+msgid "Upload Image"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:700
+msgid "Apply Opacity (Transparency) For the Upload Image"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:703
+msgid "If checked, background opacity will be added"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:727
+msgid "Default: 52px"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:735
+msgid "((Default: 900)) redefine weight of the title"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:754
+msgid "Title Font Family"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:759
+#: ../framework/meta-field/page-meta.php:815
+msgid "Raleway"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:760
+#: ../framework/meta-field/page-meta.php:816
+msgid "Open Sans"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:761
+msgid "Lato"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:762
+msgid "Roboto"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:767
+msgid "Title Margin Top"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:776
+msgid "Sub Title"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:782
+msgid "Sub Title Font Size"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:783
+msgid "Default: 22px"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:790
+msgid "Sub Title Weight"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:791
+msgid "(Default: 300) redefine weight of the title"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:810
+msgid "Sub Title Font Family"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:821
+msgid "Message Box Padding"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:829
+msgid "Message Box Text Align"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:830
+msgid "redefine text alignment"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:847
+msgid "(Default: #FFFFFF)"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:864
+msgid "Page Sidebar"
+msgstr ""
+
+#: ../framework/meta-field/page-meta.php:873
+#: ../framework/ReduxCore/options/lipi.php:3939
+msgid "Sidebar Layout"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:33
+#: ../framework/ReduxCore/options/lipi.php:34
+msgid "Lipi Theme Options"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:133
+msgid "Documentation"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:139
+msgid "Support"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:145
+msgid "Extensions"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:190
+msgid "Theme Information 1"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:191
+#: ../framework/ReduxCore/options/lipi.php:196
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:195
+msgid "Theme Information 2"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:202
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:214
+msgid "Logo"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:220
+msgid "Choose a favicon image to be displayed"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:223
+msgid "Favicon Image"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:231
+msgid "Logo Image - Dark Logo"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:232
+#: ../framework/ReduxCore/options/lipi.php:240
+msgid "Choose a default logo image to display"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:239
+msgid "Logo Image - White Logo"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:246
+msgid "Logo Adjustment"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:247
+msgid "Readjust logo if needed"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:256
+msgid "Dimensions (Width)"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:257
+#: ../framework/ReduxCore/options/lipi.php:270
+msgid "Default: 120px"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:269
+msgid "Responsive Dimensions (Width)"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:282
+msgid "Padding Top"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:283
+msgid "Default: 25px"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:294
+msgid "Logo Margin"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:304
+#: ../framework/ReduxCore/options/lipi.php:627
+msgid "Sticky Menu"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:305
+msgid "Readjust sticky menu if needed"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:312
+msgid "Disable Sticky Menu"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:322
+msgid "Dimensions (Height)"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:323
+msgid "Default: 69px"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:335
+msgid "Margin Top"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:336
+msgid "Default: -12px"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:354
+msgid "Custom Style"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:362
+msgid "Website Style"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:365
+#: ../framework/ReduxCore/options/lipi.php:481
+msgid "global effect"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:372
+msgid "Full Width Layout Style"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:379
+msgid "Top Header"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:380
+msgid "Make top header area full width"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:381
+#: ../framework/ReduxCore/options/lipi.php:390
+#: ../framework/ReduxCore/options/lipi.php:399
+#: ../framework/ReduxCore/options/lipi.php:408
+#: ../framework/ReduxCore/options/lipi.php:794
+#: ../framework/ReduxCore/options/lipi.php:1723
+#: ../framework/ReduxCore/options/lipi.php:1751
+#: ../framework/ReduxCore/options/lipi.php:1810
+#: ../framework/ReduxCore/options/lipi.php:1831
+#: ../framework/ReduxCore/options/lipi.php:1851
+#: ../framework/ReduxCore/options/lipi.php:1876
+#: ../framework/ReduxCore/options/lipi.php:1904
+#: ../framework/ReduxCore/options/lipi.php:2042
+#: ../framework/ReduxCore/options/lipi.php:2051
+#: ../framework/ReduxCore/options/lipi.php:2079
+#: ../framework/ReduxCore/options/lipi.php:2140
+#: ../framework/ReduxCore/options/lipi.php:2161
+#: ../framework/ReduxCore/options/lipi.php:2181
+#: ../framework/ReduxCore/options/lipi.php:2206
+#: ../framework/ReduxCore/options/lipi.php:2234
+#: ../framework/ReduxCore/options/lipi.php:2337
+#: ../framework/ReduxCore/options/lipi.php:2365
+#: ../framework/ReduxCore/options/lipi.php:2427
+#: ../framework/ReduxCore/options/lipi.php:2448
+#: ../framework/ReduxCore/options/lipi.php:2468
+#: ../framework/ReduxCore/options/lipi.php:2493
+#: ../framework/ReduxCore/options/lipi.php:2521
+msgid "On==Enable"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:388
+msgid "Header"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:389
+msgid "(manu+logo area) Make header area full width"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:397
+msgid "Body"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:398
+msgid "Make body area full width"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:406
+#: ../framework/ReduxCore/options/lipi.php:3958
+msgid "Footer"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:407
+msgid "Make footer area full width"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:415
+msgid "Box Layout Style"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:423
+msgid "Box Style"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:429
+msgid "Choose a background image for your box layout"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:432
+#: ../framework/ReduxCore/options/lipi.php:1491
+#: ../framework/ReduxCore/options/lipi.php:1801
+#: ../framework/ReduxCore/options/lipi.php:2131
+#: ../framework/ReduxCore/options/lipi.php:2418
+#: ../framework/ReduxCore/options/lipi.php:4211
+#: ../framework/vc-include/row.php:109
+msgid "Background Image"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:439
+msgid "Background Image Size"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:452
+#: ../framework/ReduxCore/options/lipi.php:1498
+#: ../framework/vc-include/row.php:119 ../framework/vc-include/row.php:221
+msgid "Background Image Position"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:464
+msgid "Background Image Repeat"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:478
+#: ../framework/ReduxCore/options/lipi.php:2982
+#: ../framework/ReduxCore/options/lipi.php:3564
+#: ../framework/ReduxCore/options/lipi.php:3752
+#: ../framework/ReduxCore/options/lipi.php:4327
+#: ../framework/ReduxCore/options/lipi.php:4414
+msgid "General"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:487
+msgid "Website Color"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:488
+msgid "Applied to site globally"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:500
+msgid "Standard \"a\" TAG :: Color"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:501
+msgid "Standard color"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:513
+msgid "Standard \"a\" TAG :: Color (inside post)"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:514
+msgid "Standard color for the post content"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:526
+msgid "Custom Text :: Link Color"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:527
+msgid "Custom text link with icon attached"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:539
+msgid "Botton Color"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:540
+msgid "Botton with special CSS effects"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:552
+msgid "Botton Text Color"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:564
+msgid "Meta Icon :: Color"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:565
+msgid "Appears Below the main blog title"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:578
+msgid "Widget Sidebar Top Border Color"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:579
+msgid "Appears above the widget title (applied only on the blog section)"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:592
+msgid "Tag Cloud :: Hover Text Color"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:613
+msgid "Woo Menu Icon :: Color"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:636
+msgid "Sticky Menu Height"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:649
+msgid "Sticky Menu Background Color"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:680
+msgid "Header - Top Bar"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:689
+msgid "Globally Activate Top Header"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:697
+msgid "Design Top Header"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:724
+msgid "Border Bottom Color"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:740
+#: ../framework/ReduxCore/options/lipi.php:820
+#: ../framework/ReduxCore/options/lipi.php:970
+#: ../framework/ReduxCore/options/lipi.php:1076
+#: ../framework/ReduxCore/options/lipi.php:1146
+#: ../framework/ReduxCore/options/lipi.php:1595
+msgid "Font Size"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:754
+msgid "Header - Menu Controls"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:763
+msgid "Navigation Font"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:764
+msgid "Specify the navigation font properties."
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:785
+msgid "Menu First Level"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:792
+msgid "Navigation Arrow"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:793
+msgid "Down arrow icon will appear if found sub menu"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:801
+#: ../framework/ReduxCore/options/lipi.php:952
+#: ../framework/ReduxCore/options/lipi.php:1088
+#: ../framework/ReduxCore/options/lipi.php:1158
+msgid "Font Weight"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:865
+msgid "Font Color for the Transparent Image Background"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:866
+msgid "For transparent image background"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:878
+msgid "Text Margin Left"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:892
+msgid "Text Margin Right"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:907
+msgid "Menu Text Line Height"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:922
+msgid "Hamburger Menu Height"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:937
+msgid "Menu Inner Level"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1001
+#: ../framework/ReduxCore/options/lipi.php:1197
+msgid "Letter Line Height"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1025
+msgid "Mobile/Ipad - Menu Holder"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1032
+msgid "Hamburger Menu Icon Color"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1052
+msgid "li Tag (<li>) Border Bottom Color"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1069
+msgid "Mobile/Ipad - Menu First Level"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1139
+msgid "Mobile/Ipad - Menu Inner Level"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1221
+msgid "Header - Menu Style"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1232
+#: ../framework/ReduxCore/options/lipi.php:1373
+msgid "Infomration"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1233
+msgid ""
+"Settings set for the \"Header Navigation Style\" are always global, BUT it "
+"can be overwrite while creating page (Pages-> Add New)."
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1239
+msgid "Header Style"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1246
+msgid "Header Background Color"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1256
+msgid "Header Navigation Style"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1257
+msgid "Choose a navigation Style"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1258
+msgid "GLOBAL EFFECT"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1308
+msgid "Header Style 3 Settings"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1315
+msgid "Top Border Color"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1316
+msgid "appears above the menu bar"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1317
+msgid "ONLY, applied for header style 3"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1333
+msgid "Navigation Section Background Color"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1350
+msgid "Navigation Background Linear Gradient Color"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1358
+msgid "Icon With Text :: Margin Top"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1365
+msgid "icon with text margin top wrap"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1374
+msgid ""
+" Please go to \"Appearance > Widgets\" and drag \"Icon with text\" widget "
+"and drop in a section \"Header Nav - Icon With Text\" for the header icon "
+"text field in the menu section. "
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1384
+msgid "Header - Bar"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1410
+msgid "Background Linear Gradient Color"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1428
+msgid "Breadcrumbs Regular Color"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1439
+msgid "Theme - Widget"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1448
+msgid "Theme Widget Title Tag"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1465
+msgid "Footer - Section"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1475
+msgid "Design Footer Widget Area"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1488
+msgid "Choose a background image for your footer"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1510
+#: ../framework/ReduxCore/options/lipi.php:3185
+#: ../framework/ReduxCore/options/lipi.php:3332
+#: ../framework/ReduxCore/options/lipi.php:3917
+msgid "Title Tag"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1522
+msgid "Widget Title Color"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1530
+msgid "Widget Text Color"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1550
+msgid "Design Footer Social/Copyright Area"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1587
+msgid "Go Up Arrow Styling"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1609
+msgid ""
+"Enter <a href='http://fortawesome.github.io/Font-Awesome/icons/' target=\\"
+"\"_blank\\\">fontawesome</a> name (eg: fa fa-file-o) -OR- <br>Enter <a "
+"href='https://www.elegantthemes.com/blog/resources/elegant-icon-font' target="
+"\\\"_blank\\\">elegant icon font</a> name -OR- <br>Enter <a href='http://"
+"demo.wpsmartapps.com/themes/manual/et-line-font/' target=\\\"_blank\\\">et "
+"line font</a> name"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1611
+msgid "Default: far fa-arrow-alt-circle-up"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1617
+msgid "Go Up Icon Color"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1631
+msgid "Search Box Style"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1639
+msgid "Search Box Border Color"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1647
+msgid "Search Box Icon Color"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1655
+msgid "Search Box Radius"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1661
+msgid "Default: 4px"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1668
+msgid "Search Box Font Size"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1674
+msgid "Default: 14px"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1682
+msgid "Search Box Font Weight"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1701
+msgid "Disable Submit Buttom"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1702
+msgid "On==Disable"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1713
+msgid "Custom Bbpress Header"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1721
+msgid "Activate Custom BBpress Header"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1722
+msgid "Create custom bbpress header"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1731
+#: ../framework/ReduxCore/options/lipi.php:2059
+#: ../framework/ReduxCore/options/lipi.php:2345
+msgid "Page Navigation Configuration"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1750
+#: ../framework/ReduxCore/options/lipi.php:2078
+#: ../framework/ReduxCore/options/lipi.php:2364
+msgid "If checked, transparent background will be added on header nav bar."
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1784
+#: ../framework/ReduxCore/options/lipi.php:2114
+#: ../framework/ReduxCore/options/lipi.php:2401
+msgid "Re-adjust Header Responsive Height/Padding"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1798
+#: ../framework/ReduxCore/options/lipi.php:2128
+#: ../framework/ReduxCore/options/lipi.php:2415
+msgid "Header Background Image"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1902
+#: ../framework/ReduxCore/options/lipi.php:2232
+#: ../framework/ReduxCore/options/lipi.php:2519
+msgid "Force Apply Header Text Left Alignement"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1903
+msgid "Text, Subtext & Breadcrumb will force align to left"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1914
+#: ../framework/ReduxCore/options/lipi.php:1972
+#: ../framework/ReduxCore/options/lipi.php:2244
+#: ../framework/ReduxCore/options/lipi.php:2531
+msgid "Default: #4d515c (NOTE: for image background use #FFFFFF)"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1955
+msgid "Sub Title Text Settings"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1961
+msgid "Sub Title Text Size"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1969
+msgid "Sub Title Text Color"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1978
+msgid "Sub Title Padding"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1987
+msgid "Breadcrumb Settings"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1994
+#: ../framework/ReduxCore/options/lipi.php:2284
+#: ../framework/ReduxCore/options/lipi.php:2571
+msgid "Breadcrumb Color"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:1997
+msgid "Default: #F4F4F4 (NOTE: for image background use #FFFFFF)"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2003
+#: ../framework/ReduxCore/options/lipi.php:2293
+#: ../framework/ReduxCore/options/lipi.php:2580
+msgid "Breadcrumb Link Color"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2006
+#: ../framework/ReduxCore/options/lipi.php:2296
+#: ../framework/ReduxCore/options/lipi.php:2583
+msgid "Default: #333333 (NOTE: for image background use #FFFFFF)"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2012
+#: ../framework/ReduxCore/options/lipi.php:2302
+#: ../framework/ReduxCore/options/lipi.php:2589
+msgid "Breadcrumb Text Size"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2020
+#: ../framework/ReduxCore/options/lipi.php:2310
+#: ../framework/ReduxCore/options/lipi.php:2597
+msgid "Breadcrumb Margin"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2021
+#: ../framework/ReduxCore/options/lipi.php:2311
+#: ../framework/ReduxCore/options/lipi.php:2598
+msgid "Please enter only if required"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2032
+msgid "Custom KnowledgeBase Header"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2040
+msgid "Activate Custom Header for KB Category Section"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2041
+msgid "Custom KB category header"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2049
+msgid "Activate Custom Header for KB single post Section"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2205
+msgid " Display search box on the center"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2233
+#: ../framework/ReduxCore/options/lipi.php:2520
+msgid "Text, Breadcrumb will force align to left"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2287
+#: ../framework/ReduxCore/options/lipi.php:2574
+msgid "Default: #8a8989 (NOTE: for image background use #FFFFFF)"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2327
+msgid "Custom FAQ Header"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2335
+msgid "Activate Custom Header for FAQ Category Section"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2336
+msgid "Custom FAQ category header"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2615
+msgid "Typography"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2623
+msgid "Body Font"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2624
+msgid "Specify the body font properties."
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2645
+msgid "P Tag (<p>) Line Height"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2646
+msgid "Inside post content p tag line height"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2654
+msgid "Font Style"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2661
+msgid "H1 style"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2685
+msgid "H2 style"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2709
+msgid "H3 style"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2733
+msgid "H4 style"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2759
+msgid "H5 style"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2785
+msgid "H6 style"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2818
+msgid "Live Search"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2826
+msgid "Global Settings"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2835
+msgid "Disable Live Search"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2836
+msgid "Globally disable live search"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2843
+msgid "Enable Search Icon BounceIn"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2844
+msgid "Globally Enable"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2852
+msgid "Text Settings"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2860
+msgid "Search Placeholder Text"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2867
+msgid "Flip Search Placeholder Text"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2874
+msgid "Search Button Text"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2881
+msgid " 'Show All Result' Text"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2883
+msgid "Replace text 'Show All Results' when user perform live search"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2889
+msgid " 'No Results' Text"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2891
+msgid "Replace text 'No Results' when user perform live search"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2910
+#: ../framework/ReduxCore/options/lipi.php:3258
+#: ../framework/ReduxCore/options/lipi.php:3344
+msgid "Sidebar to Display"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2911
+#: ../framework/ReduxCore/options/lipi.php:3259
+msgid "Choose a sidebar to display on category/tag page"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2923
+#: ../framework/ReduxCore/options/lipi.php:3271
+#: ../framework/ReduxCore/options/lipi.php:3357
+#: ../framework/ReduxCore/options/lipi.php:4387
+msgid "Center Content"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2932
+#: ../framework/ReduxCore/options/lipi.php:3280
+#: ../framework/ReduxCore/options/lipi.php:3366
+msgid "Search"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2940
+msgid "Records Display Order"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2941
+msgid "FAQ records order"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2952
+msgid "FAQ Display Order By"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2953
+msgid "FAQ records order by"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2975
+msgid "Knowledge Base"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2990
+msgid "(Yes) button Text."
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2993
+msgid "Like Button Text"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2994
+msgid "Yes"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:2998
+msgid "(No) button Text."
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3001
+msgid "Unlike Button Text"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3002
+msgid "No"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3006
+msgid "This message will appear above Yes/No button."
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3009
+msgid "Like/Dislike Message"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3010
+msgid "Was this helpful?"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3014
+msgid "Message appear if user has voted already"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3017
+msgid "Already Voted"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3018
+msgid "already voted"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3024
+msgid "Attachment Settings"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3029
+#: ../framework/ReduxCore/options/lipi.php:3038
+msgid "Will appear as title"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3032
+msgid "Attached File Title [for login users]"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3033
+msgid "Please Login To Download Attachments"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3041
+msgid "Attached File Title"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3046
+#: ../framework/ReduxCore/options/lipi.php:3054
+#: ../framework/ReduxCore/options/lipi.php:3062
+msgid "Will appear on the table section as header"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3049
+msgid "[Attached] File Type Title"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3057
+msgid "[Attached] File Size Title"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3065
+msgid "[Attached] File Download Title"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3072
+#: ../framework/ReduxCore/options/lipi.php:3422
+msgid "Related Articles"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3079
+#: ../framework/ReduxCore/options/lipi.php:3573
+msgid "Related Post Title"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3086
+msgid "Category Section"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3093
+msgid "Knowledgebase Category Access Control Message"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3101
+msgid "Single Post Section"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3108
+msgid "Knowledgebase Article Access Control Message"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3120
+#: ../framework/ReduxCore/options/lipi.php:3491
+#: ../framework/ReduxCore/options/lipi.php:3581
+msgid "Custom Name"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3129
+msgid "Single Post (Slug Name)"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3130
+#: ../framework/ReduxCore/options/lipi.php:3139
+#: ../framework/ReduxCore/options/lipi.php:3148
+#: ../framework/ReduxCore/options/lipi.php:3501
+#: ../framework/ReduxCore/options/lipi.php:3591
+msgid "Enter if you wish to use a different slug name."
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3131
+msgid ""
+"<strong>Will appear as: </strong> http://domain.com/<strong>knowledgebase</"
+"strong>/created-post-name/ <br><br> <div style=\"color: #D01B0B;"
+"\"><strong>WARNING: </strong>Single post slug name <strong>MUST BE unique. "
+"Mustn't</strong> match with the category slug name.</div> After entering "
+"slug, navigate to Settings -> Permalinks and click \"Save\" in order for "
+"changes to take effect"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3138
+msgid "Category (Slug Name)"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3140
+msgid ""
+"<strong>Will appear as: </strong> http://domain.com/<strong>kb</strong>/"
+"category-name/ <br><br> <div style=\"color: #D01B0B;\"><strong>WARNING:</"
+"strong> Slug Name <strong>MUST BE unique. Mustn't</strong> match with the "
+"single post slug name</div> After entering slug, navigate to Settings -> "
+"Permalinks and click \"Save\" in order for changes to take effect"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3147
+msgid "Tag (Slug Name)"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3149
+msgid ""
+"<strong>Will appear as: </strong> http://domain.com/<strong>kbtag</strong>/"
+"tag-name/ <br><br> <div style=\"color: #D01B0B;\"><strong>WARNING:</strong> "
+"Slug Name <strong>MUST BE unique. Mustn't</strong> match with both single "
+"and category slug name</div> After entering slug, navigate to Settings -> "
+"Permalinks and click \"Save\" in order for changes to take effect"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3156
+#: ../framework/ReduxCore/options/lipi.php:3599
+msgid "Custom Breadcrumb Name"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3157
+#: ../framework/ReduxCore/options/lipi.php:3510
+#: ../framework/ReduxCore/options/lipi.php:3600
+msgid "Replace breadcrumb name"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3158
+msgid ""
+"<strong>Will appear as:</strong>  Home / <strong>Knowledge Base</strong> / "
+"Customization /"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3165
+msgid "Knowledge Base Home Page URL"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3166
+msgid ""
+"<strong>Will link breadcrumb as:</strong>  Home / <a href=\"\">Knowledge "
+"Base</a> / Customization /"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3167
+#: ../framework/ReduxCore/options/lipi.php:3244
+msgid "Custom home page URL for your Knowledge Base"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3176
+msgid "Category + Tag Page Settings"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3198
+msgid "Category Page Settings"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3205
+msgid "Category Records Display Order"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3206
+msgid "Display order "
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3217
+msgid "Category Records Display Order By"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3218
+msgid "Display order by"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3234
+msgid "Display All Child Category Records in Parent Category"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3242
+#: ../framework/ReduxCore/options/lipi.php:3630
+msgid "Records Per Page"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3243
+msgid "NOTE: -1 (display all recods in the single page)"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3251
+msgid "Other Settings"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3288
+msgid "Post Impression (Quick Stats)"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3296
+msgid "Post Likes"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3304
+#: ../framework/ReduxCore/options/lipi.php:3461
+msgid "Post Date"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3312
+msgid "Title Icon"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3323
+#: ../framework/ReduxCore/options/lipi.php:3529
+#: ../framework/ReduxCore/options/lipi.php:3674
+msgid "Single Page Settings"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3345
+msgid "Choose a sidebar to display on Single KB page"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3374
+msgid "Author Info"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3390
+msgid "Comment"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3407
+msgid "Like/Dislike"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3415
+msgid "Related Articles Stats"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3430
+msgid "Number Of Related Post to Display"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3438
+msgid "Quick Stats"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3445
+msgid "Post Impression"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3453
+msgid "Author"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3469
+msgid "Post Modified Date"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3500
+msgid "Services Single Slug"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3502
+#: ../framework/ReduxCore/options/lipi.php:3592
+msgid ""
+"Note: After entering slug, navigate to Settings -> Permalinks and click "
+"\"Save\" in order for changes to take effect"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3509
+msgid "Custom Services Name"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3518
+msgid "Services Home Page URL"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3520
+msgid "Custom home page URL for your services"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3538
+#: ../framework/ReduxCore/options/lipi.php:3683
+msgid "Comments"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3539
+msgid "This option will display comments on the services single page"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3556
+msgid "Portfolio"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3590
+msgid "Portfolio Single Slug"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3608
+msgid "Portfolio Home Page URL"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3610
+msgid "Custom home page URL for your portfolio"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3620
+msgid "Landing Page Settings"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3631
+msgid "Number of protfolio records per page"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3632
+msgid "Default value: -1 (value \"-1\" will display all records)"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3644
+msgid "Display Order"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3645
+msgid "Portfolio records display order "
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3656
+msgid "Display Order By"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3657
+msgid "Portfolio records display order by"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3684
+msgid "This option will display comments on the portfolio single page"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3692
+msgid "Footer Navigation"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3693
+msgid "This option will display portfolio Navigation on the footer section"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3701
+msgid "Social Share Mailto :: SUBJECT"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3702
+msgid "Subject added to the mailto command."
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3709
+msgid "Related Portfolio"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3716
+msgid "Enable Related Portfolios"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3717
+msgid ""
+"Enabling this option will display related portfolios on portfolio single page"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3725
+msgid "Number of related post to display"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3745
+msgid "Blog"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3760
+msgid "Read More Text"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3767
+msgid "General Settings"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3776
+msgid "Display Post Modified Date"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3777
+msgid "Post modified date will appear under post title"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3784
+msgid "Display Post Excerpts On The Single Post Page"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3785
+msgid "Summaries of your content will appear on the single page at the top"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3792
+msgid "Display Post Titile if, Post fall under Quote Format"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3793
+msgid "If status is On, Title will appear on the Post Quote Format"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3800
+msgid "Display More link (CONTINUE READING) if, Post fall under Quote Format"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3801
+msgid "If status is On, more link will appear on the Post Quote Format"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3808
+msgid "Sidebar Layout (Default Landing Page)"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3809
+msgid "Choose a sidebar layout for Blog Landing pages"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3821
+msgid "Sidebar Layout (Small Thumb Landing Page)"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3822
+msgid "Choose a sidebar layout for Blog Small Thumb Landing pages"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3834
+msgid "Default Landing Post Character Limit"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3841
+#: ../framework/ReduxCore/options/lipi.php:3877
+msgid "Charater Limit For Your Excerpt Content"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3842
+#: ../framework/ReduxCore/options/lipi.php:3857
+#: ../framework/ReduxCore/options/lipi.php:3878
+#: ../framework/ReduxCore/options/lipi.php:3893
+msgid "Limit excerpt by words"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3843
+msgid "Only work for the default landing page, default value: 250"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3856
+#: ../framework/ReduxCore/options/lipi.php:3892
+msgid "Charater Limit For Your Blog Main Content"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3858
+msgid "Only work for the default landing page, default value: 40"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3870
+msgid "Small Thumb Landing Post Character Limit"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3879
+msgid "Only work for the masonry landing page, default value: 125"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3894
+msgid "Only work for the masonry landing page, default value: 25"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3908
+msgid "Blog Single"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3928
+msgid "Title Design Layout"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3929
+msgid "Design layout types"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3940
+msgid "Choose a sidebar layout for Blog Single pages"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3965
+msgid "Footer Section"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3974
+msgid "Widget Area"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3981
+msgid "Disable Footer Widget Area"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:3988
+msgid "Number Of Widget"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4000
+msgid ""
+"IMPORTANT! Adjust, 'Widget Area Column' based to the 'Number Of Widget' size "
+"chosen above"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4008
+msgid "Adjust, Widget Area Column"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4015
+msgid "Footer One Column"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4027
+msgid "Footer Two Column"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4039
+msgid "Footer Three Column"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4051
+msgid "Footer Four Column"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4064
+msgid "Social/Copyright Area"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4071
+msgid "Disable Footer Social/copyright Area"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4078
+msgid "Disable Social Icons"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4085
+msgid "Disable Copyright Section"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4092
+msgid "Copyright text"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4095
+msgid "HTML Allowed"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4101
+msgid "Disable Footer Navigation Section"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4113
+msgid "Social Icon"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4123
+msgid "Facebook URL"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4130
+msgid "Twitter URL"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4137
+msgid "Youtube URL"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4144
+msgid "Google URL"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4151
+msgid "Instagram URL"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4158
+msgid "Linkedin URL"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4165
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4172
+msgid "vimo URL"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4179
+msgid "Tumblr URL"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4202
+msgid "404 Page Background Color"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4208
+msgid "404 Background Image"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4218
+msgid "Image Display Position"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4219
+msgid "select background image display position"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4231
+msgid "Message Box Area"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4238
+msgid "Text Position"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4253
+msgid "Message Box Margin"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4267
+msgid "Enter if you wish to use a different botton text)"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4274
+msgid "Title Text properties"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4275
+msgid "Specify the title text properties."
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4304
+msgid "Subtitle Color"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4342
+msgid "Sub Title Text"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4343
+msgid "Only appear on the forum landing page"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4350
+msgid "Display Root Forums"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4351
+msgid "Display Root \"Forums\" on your bbPress Breadcrumb"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4358
+msgid "Display Search"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4359
+msgid "Display search form on the forum page"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4366
+msgid "Display Sidebar"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4367
+msgid "Display sidebar on the forum page"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4374
+#: ../framework/ReduxCore/options/lipi.php:4466
+msgid "Sidebar Position"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4375
+msgid "Display sidebar either on left or right side of the forum page"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4422
+msgid "Apply Shop Header Layout On The Single Product Page"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4423
+msgid ""
+"The default shop page <strong><i>(www.siteurl.com/shop)</i></strong> header "
+"will be applied to the single product page"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4430
+msgid "Number Of Columns"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4431
+msgid "Choose number of columns for product listing"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4442
+msgid "Disable Add To Cart (main shop & category page)"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4443
+msgid "Disable Add To Cart from shop and category page"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4450
+msgid "Disable Sidebar (main shop page)"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4451
+msgid "Disable sidebar on the product listing page i.e on default shop page"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4458
+msgid "Enable Sidebar (single product page)"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4459
+msgid "Enable sidebar on the single product page"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4467
+msgid ""
+"Display sidebar either on left or right side of the product listing page"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4478
+msgid "Number Of Related Products"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4479
+msgid "Choose number of related products"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4499
+msgid "Custom Code Editor (CSS,JS)"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4506
+msgid "Custom CSS, JS Code"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4513
+msgid "CSS Custom Code"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4521
+msgid "JS Custom Code"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4522
+msgid "Paste your JS code here."
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4607
+msgid "Section via hook"
+msgstr ""
+
+#: ../framework/ReduxCore/options/lipi.php:4608
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:393
+#: ../framework/tgm/tgm-plugin-activation.php:912
+#: ../framework/tgm/tgm-plugin-activation.php:2618
+#: ../framework/tgm/tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:394
+#: ../framework/tgm/tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:1019
+#: ../framework/tgm/tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:3594
+#: ../framework/tgm/tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:3594
+#: ../framework/tgm/tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../framework/tgm/tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/vc-include/row.php:28
+msgid "Content Display Type"
+msgstr ""
+
+#: ../framework/vc-include/row.php:60
+msgid "Row Type"
+msgstr ""
+
+#: ../framework/vc-include/row.php:75
+msgid "Row Stretch Background"
+msgstr ""
+
+#: ../framework/vc-include/row.php:99
+msgid "Linear gradient color"
+msgstr ""
+
+#: ../framework/vc-include/row.php:134 ../framework/vc-include/row.php:236
+msgid "Apply Background Opacity"
+msgstr ""
+
+#: ../framework/vc-include/row.php:144 ../framework/vc-include/row.php:246
+msgid "Background Opacity Color"
+msgstr ""
+
+#: ../framework/vc-include/row.php:155
+msgid "Row video background"
+msgstr ""
+
+#: ../framework/vc-include/row.php:168
+msgid "Video background (webm) file url"
+msgstr ""
+
+#: ../framework/vc-include/row.php:178
+msgid "Video background (mp4) file url"
+msgstr ""
+
+#: ../framework/vc-include/row.php:188
+msgid "Video background (ogv) file url"
+msgstr ""
+
+#: ../framework/vc-include/row.php:198
+msgid "Video preview image"
+msgstr ""
+
+#: ../framework/vc-include/row.php:211
+msgid "Background image"
+msgstr ""
+
+#: ../template/biography.php:9
+msgid "Author:"
+msgstr ""
+
+#: ../template/biography.php:22
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../template/content-none.php:3
+msgid "Nothing Found"
+msgstr ""
+
+#: ../template/content-none.php:9
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../template/content-none.php:13
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../template/content-none.php:18
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../template/content-page.php:31 ../template/content-single.php:69
+msgid "Pages:"
+msgstr ""
+
+#: ../template/content-page.php:35 ../template/content-single.php:73
+msgid "Page"
+msgstr ""
+
+#: ../template/content-search.php:103
+msgid ""
+"Sorry!! nothing found related to your search topic, please try search again."
+msgstr ""
+
+#: ../template/content-single.php:32 ../template/content-singlekb.php:41
+#: ../template/content-small-thumb.php:84 ../template/content.php:102
+#: ../template/kb/content-ajaxload.php:98
+msgid "Your browser don't support audio player"
+msgstr ""
+
+#: ../template/content-small-thumb.php:133 ../template/content.php:49
+msgid "Featured"
+msgstr ""
+
+#: ../template/kb/content-ajaxload.php:134
+msgid "TAGS:"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:36
+msgid "Reviews"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:58
+msgid "There are no reviews yet."
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:71
+msgid "Add a review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:71
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:72
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:88
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:92
+msgid "Your rating"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:93
+msgid "Rate&hellip;"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:94
+msgid "Perfect"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:95
+msgid "Good"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:96
+msgid "Average"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:97
+msgid "Not that bad"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:98
+msgid "Very poor"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:102
+msgid "Your review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:111
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: ../woocommerce/woocommerce_configuration.php:58
+msgid "Out of Stock"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:28
+msgid "Cart Totals"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:33
+msgid "Subtotal"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:55
+msgid "Shipping"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:71
+#, php-format
+msgid "estimated for %s"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:92
+msgid "Total"
+msgstr ""
+
+#: ../woocommerce/single-product/related.php:27
+msgid "Related products"
+msgstr ""
+
+#: ../woocommerce/single-product/tabs/additional-information.php:25
+msgid "Additional information"
+msgstr ""
+
+#: ../woocommerce/single-product/tabs/description.php:27
+msgid "Product Description"
+msgstr ""
