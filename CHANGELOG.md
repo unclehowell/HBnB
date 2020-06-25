@@ -7,10 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.0.1-rtw.7] - 2020-06-03
+## [0.0.1-rtw.7] - 2020-06-24
 ### Added
-- docs directory 1st draft - Installed it as wordpress(wp) to localmachine then exported it as static (and saved the .php & sql into `.docs`) 
 - two important folders introduced, dynamic and static. static is for all the static websites, dynamic for the server-side backend/ CMS's etc. 
+- added the Latex docs library under the directory /static/files (/static/docs is the website to view the files)
 
 ### Changed
 - altered the content of the CHANGELOG.md to relate specifically to this (gh-pages-dev) branch e.g. website development, not software development
