@@ -1,4 +1,4 @@
-# HotspotBnB Rpi-OS
+# HotspotBnB Persistent-live
 
 This monorepo branch (rpi-os) contains the source code for the latest hotspotbnb image for the raspberry pi (all models).
 
